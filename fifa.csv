@@ -1,0 +1,881 @@
+short_name,overall,potential, value_eur , wage_eur ,age,height_cm,weight_kg,club_name,league_name,club_position,attack_position,nationality_name,preferred_foot,international_reputation,body_type,pace,shooting,passing,dribbling,defending,physic
+L. Messi,93,93,78000000,320000,34,170,72,Paris Saint-Germain,French Ligue 1,RW,Attack,Argentina,Left,5,Unique,85,92,91,95,34,65
+Cristiano Ronaldo,91,91,45000000,270000,36,187,83,Manchester United,English Premier League,ST,Attack,Portugal,Right,5,Unique,87,94,80,88,34,75
+Neymar Jr,91,91,129000000,270000,29,175,68,Paris Saint-Germain,French Ligue 1,LW,Attack,Brazil,Right,5,Unique,91,83,86,94,37,63
+K. De Bruyne,91,91,125500000,350000,30,181,70,Manchester City,English Premier League,RCM,Midfield,Belgium,Right,4,Unique,76,86,93,88,64,78
+J. Oblak,91,93,112000000,130000,28,188,87,Atlético de Madrid,Spain Primera Division,GK,GoalKeeper,Slovenia,Right,5,Unique,,,,,,
+K. Mbappé,91,95,194000000,230000,22,182,73,Paris Saint-Germain,French Ligue 1,ST,Attack,France,Right,4,Unique,97,88,80,92,36,77
+M. ter Stegen,90,92,99000000,250000,29,187,85,FC Barcelona,Spain Primera Division,GK,GoalKeeper,Germany,Right,4,Unique,,,,,,
+H. Kane,90,90,129500000,240000,27,188,89,Tottenham Hotspur,English Premier League,ST,Attack,England,Right,4,Unique,70,91,83,83,47,83
+N. Kanté,90,90,100000000,230000,30,168,70,Chelsea,English Premier League,RCM,Midfield,France,Right,4,Unique,78,66,75,82,87,83
+K. Benzema,89,89,66000000,350000,33,185,81,Real Madrid CF,Spain Primera Division,CF,Attack,France,Right,4,Normal (170-185),76,86,81,87,39,77
+T. Courtois,89,91,85500000,250000,29,199,96,Real Madrid CF,Spain Primera Division,GK,GoalKeeper,Belgium,Left,4,Unique,,,,,,
+H. Son,89,89,104000000,220000,28,183,78,Tottenham Hotspur,English Premier League,LW,Attack,Korea Republic,Right,4,Unique,88,87,82,86,43,69
+Casemiro,89,89,88000000,310000,29,185,84,Real Madrid CF,Spain Primera Division,CDM,Midfield,Brazil,Right,3,Unique,65,73,76,73,86,90
+V. van Dijk,89,89,86000000,230000,29,193,92,Liverpool,English Premier League,LCB,Defense,Netherlands,Right,4,Unique,78,60,71,72,91,84
+S. Mané,89,89,101000000,270000,29,175,69,Liverpool,English Premier League,LW,Attack,Senegal,Right,4,Unique,91,83,80,89,44,77
+M. Salah,89,89,101000000,270000,29,175,71,Liverpool,English Premier League,RW,Attack,Egypt,Left,4,Unique,90,87,81,90,45,75
+Ederson,89,91,94000000,200000,27,188,86,Manchester City,English Premier League,GK,GoalKeeper,Brazil,Left,3,Unique,,,,,,
+Alisson,89,90,82000000,190000,28,191,91,Liverpool,English Premier League,GK,GoalKeeper,Brazil,Right,3,Unique,,,,,,
+G. Donnarumma,89,93,119500000,110000,22,196,90,Paris Saint-Germain,French Ligue 1,GK,GoalKeeper,Italy,Right,3,Unique,,,,,,
+Sergio Ramos,88,88,24000000,115000,35,184,82,Paris Saint-Germain,French Ligue 1,LCB,Defense,Spain,Right,4,Unique,70,70,76,74,88,84
+L. Suárez,88,88,44500000,135000,34,182,83,Atlético de Madrid,Spain Primera Division,RS,Attack,Uruguay,Right,5,Unique,72,90,82,84,47,83
+T. Kroos,88,88,75000000,310000,31,183,76,Real Madrid CF,Spain Primera Division,LCM,Midfield,Germany,Right,4,Normal (170-185),53,81,91,81,71,68
+R. Lukaku,88,88,93500000,260000,28,191,94,Chelsea,English Premier League,ST,Attack,Belgium,Left,4,Unique,84,87,74,78,39,83
+Bruno Fernandes,88,89,107500000,250000,26,179,69,Manchester United,English Premier League,CAM,Midfield,Portugal,Right,3,Unique,75,86,89,84,70,77
+S. Agüero,87,87,51000000,260000,33,173,70,FC Barcelona,Spain Primera Division,ST,Attack,Argentina,Right,4,Unique,71,89,75,87,33,69
+H. Lloris,87,87,13500000,125000,34,188,82,Tottenham Hotspur,English Premier League,GK,GoalKeeper,France,Left,4,Unique,,,,,,
+L. Modrić,87,87,32000000,190000,35,172,66,Real Madrid CF,Spain Primera Division,RCM,Midfield,Croatia,Right,4,Lean (170-185),73,76,89,88,72,66
+W. Szczęsny,87,87,42000000,105000,31,195,90,Juventus,Italian Serie A,GK,GoalKeeper,Poland,Right,3,Lean (185+),,,,,,
+C. Immobile,87,87,67500000,125000,31,185,85,Lazio,Italian Serie A,ST,Attack,Italy,Right,4,Unique,86,87,67,81,39,77
+P. Pogba,87,87,79500000,220000,28,191,84,Manchester United,English Premier League,RDM,Midfield,France,Right,4,Unique,71,81,86,86,65,83
+M. Verratti,87,87,79500000,155000,28,165,60,Paris Saint-Germain,French Ligue 1,LCM,Midfield,Italy,Right,3,Unique,64,61,87,91,79,67
+Marquinhos,87,90,90500000,135000,27,183,75,Paris Saint-Germain,French Ligue 1,RCB,Defense,Brazil,Right,3,Normal (170-185),81,53,75,74,89,81
+P. Dybala,87,88,93000000,160000,27,177,75,Juventus,Italian Serie A,CAM,Midfield,Argentina,Left,3,Unique,84,86,86,90,40,60
+A. Robertson,87,88,83500000,175000,27,178,64,Liverpool,English Premier League,LB,Defense,Scotland,Left,3,Unique,84,61,81,81,82,76
+F. de Jong,87,92,119500000,210000,24,180,74,FC Barcelona,Spain Primera Division,RCM,Midfield,Netherlands,Right,3,Unique,81,69,85,88,77,78
+T. Alexander-Arnold,87,92,114000000,150000,22,180,69,Liverpool,English Premier League,RB,Defense,England,Right,3,Unique,79,68,88,80,80,72
+J. Sancho,87,91,116500000,150000,21,180,76,Manchester United,English Premier League,LM,Midfield,England,Right,3,Unique,81,76,82,91,36,65
+Rúben Dias,87,91,102500000,170000,24,187,82,Manchester City,English Premier League,RCB,Defense,Portugal,Right,3,Normal (185+),61,38,65,68,88,88
+S. Handanovič,86,86,7500000,78000,36,193,92,Inter,Italian Serie A,GK,GoalKeeper,Slovenia,Right,3,Unique,,,,,,
+Jordi Alba,86,86,47000000,200000,32,170,68,FC Barcelona,Spain Primera Division,LB,Defense,Spain,Left,3,Unique,86,69,81,83,77,71
+Thiago,86,86,65000000,180000,30,174,70,Liverpool,English Premier League,LCM,Midfield,Spain,Right,3,Normal (170-185),63,72,86,90,70,66
+Sergio Busquets,86,86,45000000,200000,32,189,76,FC Barcelona,Spain Primera Division,CDM,Midfield,Spain,Right,4,Lean (185+),42,62,79,80,82,75
+Parejo,86,86,53500000,64000,32,182,74,Villarreal CF,Spain Primera Division,LCM,Midfield,Spain,Right,2,Lean (170-185),50,83,90,81,71,69
+L. Insigne,86,86,65500000,125000,30,163,59,Napoli,Italian Serie A,LW,Attack,Italy,Right,4,Unique,87,78,85,90,36,45
+K. Koulibaly,86,86,55500000,105000,30,187,89,Napoli,Italian Serie A,LCB,Defense,Senegal,Right,3,Unique,81,28,51,65,87,85
+R. Varane,86,88,68500000,180000,28,191,81,Manchester United,English Premier League,RCB,Defense,France,Right,3,Unique,82,49,64,65,87,82
+R. Mahrez,86,86,65500000,220000,30,179,67,Manchester City,English Premier League,RW,Attack,Algeria,Left,3,Unique,81,79,81,90,38,60
+Gerard Moreno,86,86,68000000,73000,29,180,77,Villarreal CF,Spain Primera Division,RS,Attack,Spain,Left,2,Lean (170-185),79,86,77,84,46,73
+J. Vardy,86,86,33000000,180000,34,179,74,Leicester City,English Premier League,ST,Attack,England,Right,3,Unique,85,84,70,80,52,73
+Fabinho,86,88,73500000,165000,27,188,78,Liverpool,English Premier League,CDM,Midfield,Brazil,Right,3,Unique,67,69,78,78,85,83
+João Cancelo,86,87,71500000,185000,27,182,74,Manchester City,English Premier League,LB,Defense,Portugal,Right,3,Unique,85,71,83,84,80,72
+A. Laporte,86,89,77000000,185000,27,191,85,Manchester City,English Premier League,LCB,Defense,Spain,Left,3,Unique,63,50,72,69,86,80
+Marcos Llorente,86,89,88000000,95000,26,184,74,Atlético de Madrid,Spain Primera Division,RM,Midfield,Spain,Right,3,Lean (170-185),88,80,81,82,78,82
+Rodri,86,89,81000000,175000,25,191,82,Manchester City,English Premier League,CDM,Midfield,Spain,Right,3,Normal (185+),61,70,77,78,82,82
+M. Škriniar,86,88,74000000,150000,26,188,80,Inter,Italian Serie A,RCB,Defense,Slovakia,Right,3,Unique,80,41,53,69,87,84
+A. Gómez,85,85,33500000,51000,33,167,68,Sevilla FC,Spain Primera Division,LCM,Midfield,Argentina,Right,3,Normal (170-),87,78,84,87,39,55
+K. Schmeichel,85,85,9000000,115000,34,189,89,Leicester City,English Premier League,GK,GoalKeeper,Denmark,Right,2,Stocky (185+),,,,,,
+David Silva,85,85,22000000,44000,35,173,67,Real Sociedad,Spain Primera Division,CAM,Midfield,Spain,Left,4,Normal (170-185),63,74,87,87,52,53
+E. Hazard,85,85,52000000,240000,30,175,74,Real Madrid CF,Spain Primera Division,LW,Attack,Belgium,Right,4,Unique,84,80,82,88,35,63
+L. Bonucci,85,85,17500000,110000,34,190,85,Juventus,Italian Serie A,RCB,Defense,Italy,Right,3,Lean (185+),64,58,69,72,86,80
+İ. Gündoğan,85,85,51500000,185000,30,180,80,Manchester City,English Premier League,LCM,Midfield,Germany,Right,3,Normal (170-185),65,80,85,86,73,72
+K. Walker,85,85,39000000,170000,31,183,83,Manchester City,English Premier League,RB,Defense,England,Right,3,Unique,92,63,76,78,80,82
+P. Aubameyang,85,85,43500000,145000,32,187,80,Arsenal,English Premier League,ST,Attack,Gabon,Right,3,Unique,89,85,75,80,35,69
+Koke,85,85,52500000,90000,29,176,75,Atlético de Madrid,Spain Primera Division,RCM,Midfield,Spain,Right,3,Normal (170-185),70,75,85,81,79,80
+A. Griezmann,85,85,53000000,220000,30,176,73,Atlético de Madrid,Spain Primera Division,LS,Attack,France,Left,4,Unique,80,84,84,87,52,72
+S. de Vrij,85,85,45000000,145000,29,189,78,Inter,Italian Serie A,CB,Defense,Netherlands,Right,3,Unique,72,41,64,70,87,79
+Roberto Firmino,85,85,54000000,185000,29,181,76,Liverpool,English Premier League,CF,Attack,Brazil,Right,3,Unique,77,78,79,89,59,78
+M. Depay,85,86,63000000,220000,27,176,78,FC Barcelona,Spain Primera Division,LW,Attack,Netherlands,Right,3,Unique,82,83,82,84,30,79
+Carvajal,85,85,47500000,210000,29,173,73,Real Madrid CF,Spain Primera Division,RB,Defense,Spain,Right,3,Unique,80,54,78,80,81,80
+Jorginho,85,85,52500000,170000,29,180,68,Chelsea,English Premier League,LCM,Midfield,Italy,Right,2,Lean (170-185),55,67,86,81,73,73
+S. Milinković-Savić,85,87,66000000,100000,26,191,76,Lazio,Italian Serie A,RCM,Midfield,Serbia,Right,3,Normal (185+),68,79,80,81,79,86
+W. Ndidi,85,88,66500000,120000,24,183,74,Leicester City,English Premier League,LDM,Midfield,Nigeria,Right,1,Lean (170-185),67,62,69,74,87,83
+Oyarzabal,85,89,77500000,57000,24,181,79,Real Sociedad,Spain Primera Division,LW,Attack,Spain,Left,2,Lean (170-185),82,82,81,84,41,63
+L. Martínez,85,89,78000000,145000,23,174,72,Inter,Italian Serie A,LS,Attack,Argentina,Right,3,Unique,84,81,72,85,48,84
+A. Hakimi,85,88,69500000,100000,22,181,73,Paris Saint-Germain,French Ligue 1,RB,Defense,Morocco,Right,2,Lean (170-185),95,71,78,83,76,78
+M. de Ligt,85,90,75000000,81000,21,189,89,Juventus,Italian Serie A,LCB,Defense,Netherlands,Right,3,Unique,73,59,60,69,84,87
+Jesús Navas,84,84,13000000,30000,35,172,60,Sevilla FC,Spain Primera Division,RB,Defense,Spain,Right,2,Lean (170-),87,69,81,83,79,58
+Piqué,84,84,13500000,175000,34,194,85,FC Barcelona,Spain Primera Division,LCB,Defense,Spain,Right,4,Unique,58,61,71,68,85,78
+G. Wijnaldum,84,84,40500000,115000,30,175,74,Paris Saint-Germain,French Ligue 1,RCM,Midfield,Netherlands,Right,3,Unique,77,75,80,86,79,79
+J. Henderson,84,84,29500000,140000,31,182,80,Liverpool,English Premier League,RCM,Midfield,England,Right,3,Normal (170-185),66,74,83,79,78,81
+Fernando,84,84,21000000,43000,33,183,76,Sevilla FC,Spain Primera Division,CDM,Midfield,Brazil,Right,2,Lean (170-185),66,62,75,74,83,82
+Iago Aspas,84,84,27000000,46000,33,176,67,RC Celta de Vigo,Spain Primera Division,RS,Attack,Spain,Left,2,Lean (170-185),82,85,79,86,35,63
+De Gea,84,84,28000000,120000,30,192,82,Manchester United,English Premier League,GK,GoalKeeper,Spain,Right,4,Unique,,,,,,
+D. Alaba,84,84,35500000,195000,29,180,78,Real Madrid CF,Spain Primera Division,LB,Defense,Austria,Left,4,Normal (170-185),77,70,81,80,83,76
+Luis Alberto,84,84,42500000,95000,28,183,74,Lazio,Italian Serie A,LCM,Midfield,Spain,Right,2,Lean (170-185),60,76,86,84,57,59
+W. Ben Yedder,84,84,41500000,88000,30,170,68,AS Monaco,French Ligue 1,ST,Attack,France,Right,2,Unique,82,84,77,87,39,70
+L. Digne,84,84,40500000,110000,27,178,74,Everton,English Premier League,LB,Defense,France,Left,2,Unique,79,69,80,80,80,76
+E. Martínez,84,85,33500000,81000,28,195,88,Aston Villa,English Premier League,GK,GoalKeeper,Argentina,Right,3,Stocky (185+),,,,,,
+H. Maguire,84,86,42500000,155000,28,194,100,Manchester United,English Premier League,LCB,Defense,England,Right,3,Stocky (185+),50,55,69,70,85,87
+S. Savić,84,84,34500000,74000,30,187,80,Atlético de Madrid,Spain Primera Division,RCB,Defense,Montenegro,Right,2,Normal (185+),64,35,57,58,87,76
+L. Shaw,84,86,48500000,140000,25,181,75,Manchester United,English Premier League,LB,Defense,England,Left,2,Stocky (170-185),79,54,79,80,81,80
+J. Grealish,84,85,50500000,180000,25,180,81,Manchester City,English Premier League,LW,Attack,England,Right,3,Unique,80,76,83,88,46,64
+Y. Carrasco,84,84,45000000,81000,27,185,73,Atlético de Madrid,Spain Primera Division,LM,Midfield,Belgium,Right,3,Lean (185+),88,81,78,85,45,67
+Ricardo Pereira,84,84,40500000,130000,27,175,70,Leicester City,English Premier League,RB,Defense,Portugal,Right,3,Unique,83,67,78,82,80,75
+M. Maignan,84,89,49500000,45000,25,191,89,AC Milan,Italian Serie A,GK,GoalKeeper,France,Right,2,Normal (185+),,,,,,
+M. Brozović,84,84,37000000,130000,28,181,68,Inter,Italian Serie A,CDM,Midfield,Croatia,Right,3,Lean (170-185),69,74,80,79,79,78
+Y. Tielemans,84,87,57000000,125000,24,176,72,Leicester City,English Premier League,RDM,Midfield,Belgium,Right,2,Normal (170-185),63,79,86,80,71,72
+J. Giménez,84,88,52000000,74000,26,185,79,Atlético de Madrid,Spain Primera Division,CB,Defense,Uruguay,Right,2,Normal (185+),69,45,57,59,86,80
+N. Fekir,84,84,45000000,42000,27,173,75,Real Betis Balompié,Spain Primera Division,CAM,Midfield,France,Left,3,Stocky (170-185),83,83,82,87,38,79
+N. Barella,84,89,63500000,120000,24,172,68,Inter,Italian Serie A,RCM,Midfield,Italy,Right,3,Normal (170-),78,71,79,86,75,78
+M. Acuña,84,84,37000000,45000,29,172,69,Sevilla FC,Spain Primera Division,LB,Defense,Argentina,Left,2,Stocky (170-185),76,74,82,87,79,82
+F. Kessié,84,86,49500000,51000,24,183,88,AC Milan,Italian Serie A,LDM,Midfield,Côte d'Ivoire,Right,3,Normal (170-185),78,74,74,80,82,87
+T. Hernández,84,90,62500000,51000,23,184,81,AC Milan,Italian Serie A,LB,Defense,France,Left,3,Unique,93,71,76,81,77,82
+S. Kjær,83,83,23500000,54000,32,190,86,AC Milan,Italian Serie A,RCB,Defense,Denmark,Right,3,Normal (185+),67,55,64,59,85,78
+E. Džeko,83,83,15500000,105000,35,193,80,Inter,Italian Serie A,RS,Attack,Bosnia and Herzegovina,Right,3,Lean (185+),66,83,72,78,45,76
+Azpilicueta,83,83,25000000,125000,31,178,77,Chelsea,English Premier League,RWB,Defense,Spain,Right,3,Normal (170-185),66,55,76,72,84,76
+Muniain,83,83,36500000,44000,28,170,66,Athletic Club de Bilbao,Spain Primera Division,LM,Midfield,Spain,Right,2,Normal (170-),81,76,82,87,51,61
+Canales,83,83,34500000,38000,30,176,65,Real Betis Balompié,Spain Primera Division,LM,Midfield,Spain,Left,2,Lean (170-185),83,80,85,82,67,71
+Alex Sandro,83,83,31500000,95000,30,180,80,Juventus,Italian Serie A,LB,Defense,Brazil,Left,3,Unique,81,65,77,79,78,79
+B. Leno,83,84,28000000,87000,29,190,83,Arsenal,English Premier League,GK,GoalKeeper,Germany,Right,3,Normal (185+),,,,,,
+K. Manolas,83,83,30000000,80000,30,189,83,Napoli,Italian Serie A,RCB,Defense,Greece,Right,3,Normal (185+),81,25,44,62,85,81
+H. Mkhitaryan,83,83,29500000,82000,32,177,75,Roma,Italian Serie A,LM,Midfield,Armenia,Right,3,Normal (170-185),85,80,79,83,56,74
+J. Cuadrado,83,83,19000000,95000,33,179,72,Juventus,Italian Serie A,RM,Midfield,Colombia,Right,3,Lean (170-185),90,75,77,87,76,72
+J. Matip,83,83,30500000,130000,29,194,90,Liverpool,English Premier League,RCB,Defense,Cameroon,Right,2,Lean (185+),58,46,68,68,85,78
+F. Acerbi,83,83,17500000,75000,33,192,88,Lazio,Italian Serie A,LCB,Defense,Italy,Left,3,Normal (185+),63,50,62,64,86,83
+Allan,83,83,30500000,100000,30,175,74,Everton,English Premier League,LDM,Midfield,Brazil,Right,2,Normal (170-185),72,71,77,82,80,79
+K. Volland,83,83,37000000,83000,28,179,85,AS Monaco,French Ligue 1,RF,Attack,Germany,Left,2,Stocky (170-185),73,85,79,80,42,86
+Morata,83,83,37000000,84000,28,190,84,Juventus,Italian Serie A,ST,Attack,Spain,Right,3,Unique,82,80,72,81,31,77
+N. Pope,83,83,25000000,45000,29,199,76,Burnley,English Premier League,GK,GoalKeeper,England,Right,1,Lean (185+),,,,,,
+R. Jiménez,83,83,35500000,120000,30,188,81,Wolverhampton Wanderers,English Premier League,ST,Attack,Mexico,Right,3,Normal (185+),72,82,76,81,47,82
+J. Pickford,83,85,33000000,83000,27,185,77,Everton,English Premier League,GK,GoalKeeper,England,Left,3,Normal (185+),,,,,,
+A. Rüdiger,83,84,34500000,130000,28,190,85,Chelsea,English Premier League,LCB,Defense,Germany,Right,2,Lean (185+),75,43,68,64,84,84
+L. Ocampos,83,83,39500000,46000,26,188,84,Sevilla FC,Spain Primera Division,LW,Attack,Argentina,Right,2,Normal (185+),81,84,78,83,63,84
+T. Partey,83,83,36500000,115000,28,185,77,Arsenal,English Premier League,RDM,Midfield,Ghana,Right,2,Normal (185+),69,71,82,81,80,84
+Gayà,83,86,43500000,48000,26,172,66,Valencia CF,Spain Primera Division,LB,Defense,Spain,Left,3,Lean (170-185),83,61,77,80,79,73
+T. Lemar,83,86,48000000,71000,25,171,66,Atlético de Madrid,Spain Primera Division,LCM,Midfield,France,Left,3,Lean (170-185),82,76,82,86,59,63
+P. Højbjerg,83,86,43500000,105000,25,185,84,Tottenham Hotspur,English Premier League,RCM,Midfield,Denmark,Right,2,Normal (185+),60,71,76,76,81,82
+D. Zapata,83,83,35500000,77000,30,189,88,Atalanta,Italian Serie A,ST,Attack,Colombia,Right,2,Normal (185+),80,81,61,78,35,84
+R. Gosens,83,83,36000000,65000,26,183,76,Atalanta,Italian Serie A,LM,Midfield,Germany,Left,3,Normal (170-185),82,75,74,79,77,81
+Merino,83,87,50000000,47000,25,189,83,Real Sociedad,Spain Primera Division,RCM,Midfield,Spain,Left,1,Normal (185+),74,78,81,82,82,81
+A. Wan-Bissaka,83,87,48500000,115000,23,183,72,Manchester United,English Premier League,RB,Defense,England,Right,2,Unique,85,52,69,79,81,75
+O. Dembélé,83,88,55000000,165000,24,178,67,FC Barcelona,Spain Primera Division,RW,Attack,France,Left,3,Unique,93,77,77,86,36,56
+M. Mount,83,89,58500000,120000,22,178,70,Chelsea,English Premier League,RW,Attack,England,Right,3,Lean (170-185),74,79,84,83,55,65
+É. Mendy,83,85,30000000,105000,29,197,86,Chelsea,English Premier League,GK,GoalKeeper,Senegal,Right,2,Lean (185+),,,,,,
+F. Chiesa,83,91,80500000,74000,23,175,70,Juventus,Italian Serie A,LM,Midfield,Italy,Right,3,Normal (170-185),91,81,74,85,48,73
+J. Koundé,83,89,53000000,33000,22,181,75,Sevilla FC,Spain Primera Division,RCB,Defense,France,Right,2,Normal (170-185),81,45,64,72,84,78
+Raúl Albiol,82,82,8000000,30000,35,190,82,Villarreal CF,Spain Primera Division,RCB,Defense,Spain,Right,3,Lean (185+),40,41,62,63,86,73
+Ł. Fabiański,82,82,3400000,43000,36,190,83,West Ham United,English Premier League,GK,GoalKeeper,Poland,Right,2,Normal (185+),,,,,,
+S. Sirigu,82,82,5000000,20000,34,192,85,Genoa,Italian Serie A,GK,GoalKeeper,Italy,Right,3,Normal (185+),,,,,,
+G. Bale,82,82,25000000,170000,31,185,82,Real Madrid CF,Spain Primera Division,RW,Attack,Wales,Left,4,Unique,82,84,82,80,55,70
+Rui Patrício,82,82,10000000,51000,33,190,84,Roma,Italian Serie A,GK,GoalKeeper,Portugal,Left,3,Normal (185+),,,,,,
+I. Gueye,82,82,21500000,88000,31,174,66,Paris Saint-Germain,French Ligue 1,CM,Midfield,Senegal,Right,2,Lean (170-185),69,62,71,78,83,77
+W. Zaha,82,82,31000000,85000,28,180,66,Crystal Palace,English Premier League,RW,Attack,Côte d'Ivoire,Right,2,Unique,89,77,73,87,34,75
+A. Lopes,82,83,23000000,60000,30,184,81,Olympique Lyonnais,French Ligue 1,GK,GoalKeeper,Portugal,Left,2,Normal (170-185),,,,,,
+Campaña,82,82,30500000,43000,28,179,70,Levante Unión Deportiva,Spain Primera Division,LCM,Midfield,Spain,Right,1,Lean (170-185),68,74,83,82,71,72
+Gabriel Paulista,82,82,25000000,44000,30,185,72,Valencia CF,Spain Primera Division,RCB,Defense,Brazil,Right,2,Lean (185+),67,49,71,65,84,83
+J. Veretout,82,83,29500000,66000,28,177,67,Roma,Italian Serie A,LDM,Midfield,France,Right,2,Normal (170-185),77,75,77,79,77,81
+Suso,82,82,32500000,42000,27,176,70,Sevilla FC,Spain Primera Division,RW,Attack,Spain,Left,2,Normal (170-185),76,76,82,85,32,55
+Juan Bernat,82,82,27500000,90000,28,170,67,Paris Saint-Germain,French Ligue 1,LB,Defense,Spain,Left,2,Normal (170-),82,65,78,82,76,68
+H. Çalhanoğlu,82,83,35000000,115000,27,178,76,Inter,Italian Serie A,LCM,Midfield,Turkey,Right,3,Normal (170-185),67,78,84,85,59,57
+M. de Roon,82,82,25500000,59000,30,185,76,Atalanta,Italian Serie A,RCM,Midfield,Netherlands,Right,3,Normal (185+),66,68,71,73,82,83
+Y. Bounou,82,82,20500000,29000,30,192,78,Sevilla FC,Spain Primera Division,GK,GoalKeeper,Morocco,Left,1,Lean (185+),,,,,,
+D. Berardi,82,82,33500000,51000,26,183,72,U.S. Sassuolo Calcio,Italian Serie A,RM,Midfield,Italy,Left,2,Lean (170-185),79,80,81,85,36,69
+Diego Carlos,82,84,30500000,37000,28,185,86,Sevilla FC,Spain Primera Division,LCB,Defense,Brazil,Right,2,Stocky (185+),76,47,63,68,81,83
+A. Rebić,82,82,32500000,54000,27,185,78,AC Milan,Italian Serie A,LM,Midfield,Croatia,Right,1,Normal (185+),86,83,75,81,48,80
+J. Maddison,82,85,41500000,100000,24,175,73,Leicester City,English Premier League,CAM,Midfield,England,Right,1,Lean (170-185),75,78,84,84,54,60
+M. Locatelli,82,87,42000000,74000,23,185,75,Juventus,Italian Serie A,RDM,Midfield,Italy,Right,2,Lean (185+),61,72,79,77,79,79
+M. Ødegaard,82,88,49000000,89000,22,178,68,Arsenal,English Premier League,CAM,Midfield,Norway,Left,3,Lean (170-185),77,74,83,84,58,62
+Rúben Neves,82,87,46000000,89000,24,180,80,Wolverhampton Wanderers,English Premier League,RCM,Midfield,Portugal,Right,2,Normal (170-185),59,75,85,77,74,73
+Fabián,82,86,42000000,77000,25,189,70,Napoli,Italian Serie A,RCM,Midfield,Spain,Left,2,Normal (185+),63,78,79,82,74,71
+C. Pulisic,82,88,49000000,120000,22,177,69,Chelsea,English Premier League,LW,Attack,United States,Right,3,Lean (170-185),89,70,73,86,37,59
+Mario Hermoso,82,85,35500000,62000,26,185,76,Atlético de Madrid,Spain Primera Division,LCB,Defense,Spain,Left,1,Normal (185+),75,49,72,71,83,80
+Unai Simón,82,86,34500000,24000,24,190,89,Athletic Club de Bilbao,Spain Primera Division,GK,GoalKeeper,Spain,Right,3,Normal (185+),,,,,,
+Richarlison,82,87,46500000,100000,24,181,71,Everton,English Premier League,LM,Midfield,Brazil,Right,3,Lean (170-185),83,78,73,83,53,80
+Raphinha,82,87,46000000,89000,24,176,68,Leeds United,English Premier League,RM,Midfield,Brazil,Left,2,Lean (170-185),91,76,76,84,49,72
+A. Isak,82,86,45000000,37000,21,192,77,Real Sociedad,Spain Primera Division,ST,Attack,Sweden,Right,2,Unique,84,82,68,79,29,69
+D. Rice,82,87,43000000,69000,22,185,80,West Ham United,English Premier League,LDM,Midfield,England,Right,1,Normal (185+),66,53,71,74,81,79
+Y. En-Nesyri,82,86,44000000,37000,24,188,78,Sevilla FC,Spain Primera Division,ST,Attack,Morocco,Left,2,Lean (185+),78,83,58,78,35,76
+T. Souček,82,85,36000000,81000,26,192,86,West Ham United,English Premier League,RDM,Midfield,Czech Republic,Right,1,Lean (185+),64,72,74,74,82,85
+Éder Militão,82,89,56500000,130000,23,186,78,Real Madrid CF,Spain Primera Division,RCB,Defense,Brazil,Right,2,Lean (170-185),83,50,69,71,83,82
+Ferran Torres,82,90,68500000,120000,21,184,77,Manchester City,English Premier League,ST,Attack,Spain,Right,1,Lean (170-185),82,79,78,82,35,66
+Joaquín,81,81,8500000,23000,39,179,75,Real Betis Balompié,Spain Primera Division,RM,Midfield,Spain,Right,2,Normal (170-185),68,80,84,81,44,55
+B. Yılmaz,81,81,11000000,39000,35,188,77,LOSC Lille,French Ligue 1,LS,Attack,Turkey,Right,2,Lean (185+),79,83,69,73,34,79
+A. Consigli,81,81,4400000,32000,34,189,82,U.S. Sassuolo Calcio,Italian Serie A,GK,GoalKeeper,Italy,Right,2,Lean (185+),,,,,,
+S. Mandanda,81,81,2900000,24000,36,185,82,Olympique de Marseille,French Ligue 1,GK,GoalKeeper,France,Right,3,Normal (185+),,,,,,
+José Fonte,81,81,4600000,30000,37,191,84,LOSC Lille,French Ligue 1,RCB,Defense,Portugal,Right,3,Lean (185+),32,46,62,63,83,77
+Lucas Leiva,81,81,9000000,64000,34,179,78,Lazio,Italian Serie A,CDM,Midfield,Brazil,Right,3,Normal (170-185),56,65,73,76,82,69
+I. Perišić,81,81,20500000,105000,32,186,80,Inter,Italian Serie A,LM,Midfield,Croatia,Left,3,Lean (185+),81,79,76,79,64,74
+M. Arnautović,81,81,21000000,48000,32,192,83,Bologna,Italian Serie A,ST,Attack,Austria,Right,3,Normal (185+),79,81,79,78,44,82
+B. André,81,81,21500000,43000,30,180,74,LOSC Lille,French Ligue 1,RCM,Midfield,France,Right,2,Normal (170-185),67,64,74,75,80,85
+Aitor,81,81,17000000,28000,30,182,78,Levante Unión Deportiva,Spain Primera Division,GK,GoalKeeper,Spain,Right,1,Normal (170-185),,,,,,
+D. Ings,81,81,26500000,90000,28,178,73,Aston Villa,English Premier League,ST,Attack,England,Right,1,Normal (170-185),79,84,70,80,45,70
+Danilo,81,81,22500000,83000,29,184,78,Juventus,Italian Serie A,RB,Defense,Brazil,Right,2,Lean (170-185),73,67,73,74,82,79
+Paco Alcácer,81,81,28000000,45000,27,175,70,Villarreal CF,Spain Primera Division,LS,Attack,Spain,Right,2,Normal (170-185),77,84,69,81,35,61
+Nacho Fernández,81,81,17500000,140000,31,180,76,Real Madrid CF,Spain Primera Division,LCB,Defense,Spain,Right,2,Normal (170-185),78,37,66,69,81,80
+Lucas Moura,81,81,26000000,105000,28,174,70,Tottenham Hotspur,English Premier League,RW,Attack,Brazil,Right,3,Unique,90,79,70,86,43,68
+J. Tarkowski,81,82,24500000,46000,28,188,81,Burnley,English Premier League,RCB,Defense,England,Right,1,Normal (185+),57,45,67,65,82,81
+Iñigo Martínez,81,81,21000000,33000,30,182,77,Athletic Club de Bilbao,Spain Primera Division,LCB,Defense,Spain,Left,2,Normal (170-185),71,56,66,64,81,79
+A. Milik,81,82,30000000,81000,27,186,78,Olympique de Marseille,French Ligue 1,ST,Attack,Poland,Left,3,Normal (185+),64,84,67,76,39,71
+J. Ward-Prowse,81,84,33500000,69000,26,173,66,Southampton,English Premier League,RCM,Midfield,England,Right,2,Normal (170-185),59,74,86,78,67,73
+A. Cragno,81,83,23500000,32000,27,184,78,Cagliari,Italian Serie A,GK,GoalKeeper,Italy,Right,1,Lean (170-185),,,,,,
+A. Januzaj,81,81,28000000,45000,26,186,76,Real Sociedad,Spain Primera Division,RW,Attack,Belgium,Left,1,Lean (185+),79,75,80,83,30,58
+A. Belotti,81,82,30000000,61000,27,181,84,Torino F.C.,Italian Serie A,ST,Attack,Italy,Right,3,Normal (170-185),76,81,59,78,38,83
+Fred,81,81,22500000,120000,28,169,62,Manchester United,English Premier League,LDM,Midfield,Brazil,Left,3,Lean (170-),77,66,77,81,75,71
+A. Rabiot,81,82,30000000,87000,26,192,80,Juventus,Italian Serie A,LDM,Midfield,France,Left,2,Lean (185+),76,74,76,80,76,79
+Rui Silva,81,84,25500000,24000,27,191,91,Real Betis Balompié,Spain Primera Division,GK,GoalKeeper,Portugal,Right,1,Normal (185+),,,,,,
+P. Zieliński,81,82,29500000,74000,27,180,75,Napoli,Italian Serie A,CAM,Midfield,Poland,Right,3,Lean (170-185),81,75,81,85,70,61
+D. Machís,81,81,26000000,34000,28,174,74,Granada CF,Spain Primera Division,RM,Midfield,Venezuela,Right,1,Stocky (170-185),88,80,75,83,38,70
+J. Musso,81,83,23500000,44000,27,191,93,Atalanta,Italian Serie A,GK,GoalKeeper,Argentina,Right,1,Normal (185+),,,,,,
+Iñaki Williams,81,82,30000000,39000,27,186,80,Athletic Club de Bilbao,Spain Primera Division,LS,Attack,Spain,Right,2,Normal (185+),94,78,72,78,37,81
+M. Politano,81,81,27500000,74000,27,171,67,Napoli,Italian Serie A,RW,Attack,Italy,Left,2,Normal (170-185),83,77,78,84,42,55
+Morales,81,81,16500000,41000,33,180,70,Levante Unión Deportiva,Spain Primera Division,LS,Attack,Spain,Right,2,Lean (170-185),86,82,75,85,52,68
+D. Djené,81,82,24000000,36000,29,178,72,Getafe CF,Spain Primera Division,RCB,Defense,Togo,Right,1,Normal (170-185),69,37,62,62,83,79
+D. Calvert-Lewin,81,85,37500000,90000,24,187,71,Everton,English Premier League,ST,Attack,England,Right,2,Unique,83,77,64,77,39,82
+David Soria,81,82,20500000,30000,28,192,85,Getafe CF,Spain Primera Division,GK,GoalKeeper,Spain,Right,1,Lean (185+),,,,,,
+K. Phillips,81,85,32500000,82000,25,178,72,Leeds United,English Premier League,CDM,Midfield,England,Right,2,Stocky (170-185),67,65,76,75,78,82
+Gonçalo Guedes,81,86,39000000,39000,24,179,68,Valencia CF,Spain Primera Division,LS,Attack,Portugal,Right,2,Normal (170-185),86,79,76,82,36,68
+N. Pépé,81,82,30500000,95000,26,183,73,Arsenal,English Premier League,RM,Midfield,Côte d'Ivoire,Left,2,Unique,88,79,75,83,36,65
+Álex Remiro,81,84,26000000,31000,26,191,83,Real Sociedad,Spain Primera Division,GK,GoalKeeper,Spain,Right,1,Lean (185+),,,,,,
+Yeray,81,83,28000000,33000,26,182,79,Athletic Club de Bilbao,Spain Primera Division,RCB,Defense,Spain,Right,2,Normal (170-185),68,49,62,64,82,77
+L. Pellegrini,81,86,38000000,61000,25,186,77,Roma,Italian Serie A,CAM,Midfield,Italy,Right,2,Normal (185+),78,74,81,80,72,77
+R. Malinovskyi,81,81,26500000,68000,28,181,79,Atalanta,Italian Serie A,RF,Attack,Ukraine,Left,3,Stocky (170-185),74,80,83,81,64,79
+Lucas Paquetá,81,86,38500000,65000,23,180,72,Olympique Lyonnais,French Ligue 1,CAM,Midfield,Brazil,Left,2,Normal (170-185),74,75,79,83,69,78
+Carlos Soler,81,88,51500000,39000,24,180,76,Valencia CF,Spain Primera Division,RM,Midfield,Spain,Right,2,Lean (170-185),78,77,82,79,71,71
+H. Barnes,81,84,35000000,95000,23,180,66,Leicester City,English Premier League,LM,Midfield,England,Right,1,Normal (170-185),86,77,76,81,45,63
+H. Aouar,81,86,38500000,65000,23,175,70,Olympique Lyonnais,French Ligue 1,LM,Midfield,France,Right,2,Unique,75,75,81,85,66,71
+M. Lazzari,81,81,25000000,64000,27,174,67,Lazio,Italian Serie A,RB,Defense,Italy,Right,2,Lean (170-185),92,62,76,82,70,65
+R. James,81,86,37000000,76000,21,178,87,Chelsea,English Premier League,RCB,Defense,England,Right,2,Stocky (170-185),80,58,77,77,76,80
+Reguilón,81,84,32500000,79000,24,178,68,Tottenham Hotspur,English Premier League,LB,Defense,Spain,Left,1,Lean (170-185),86,58,75,78,78,70
+Pedri,81,91,54000000,51000,18,174,61,FC Barcelona,Spain Primera Division,LCM,Midfield,Spain,Right,2,Lean (170-185),78,65,79,84,66,63
+João Moutinho,80,80,9500000,88000,34,170,61,Wolverhampton Wanderers,English Premier League,LCM,Midfield,Portugal,Right,3,Normal (170-),50,72,84,80,70,66
+Raúl García,80,80,10500000,36000,34,184,83,Athletic Club de Bilbao,Spain Primera Division,RS,Attack,Spain,Right,2,Normal (170-185),41,82,81,78,65,83
+D. Wass,80,80,14500000,38000,32,181,74,Valencia CF,Spain Primera Division,RCM,Midfield,Denmark,Right,2,Normal (170-185),74,77,80,77,76,76
+D. Payet,80,80,10000000,51000,34,175,77,Olympique de Marseille,French Ligue 1,CF,Attack,France,Right,3,Stocky (170-185),69,77,83,82,38,67
+Nacho Monreal,80,80,6500000,26000,35,180,77,Real Sociedad,Spain Primera Division,LB,Defense,Spain,Left,2,Lean (170-185),65,61,74,74,80,68
+D. Godín,80,80,5500000,27000,35,187,78,Cagliari,Italian Serie A,CB,Defense,Uruguay,Right,3,Lean (185+),57,48,63,61,80,78
+A. Ogbonna,80,80,10000000,70000,33,191,86,West Ham United,English Premier League,LCB,Defense,Italy,Left,2,Normal (185+),56,40,60,62,82,76
+José Callejón,80,80,10000000,61000,34,178,73,Fiorentina,Italian Serie A,RW,Attack,Spain,Right,3,Lean (170-185),77,76,76,81,48,59
+Rafael Tolói,80,80,17500000,51000,30,185,75,Atalanta,Italian Serie A,RCB,Defense,Italy,Right,2,Lean (185+),66,47,58,64,82,80
+Guaita,80,80,3600000,48000,34,190,80,Crystal Palace,English Premier League,GK,GoalKeeper,Spain,Right,2,Normal (185+),,,,,,
+R. Pereyra,80,80,20000000,23000,30,182,77,Udinese Calcio,Italian Serie A,CM,Midfield,Argentina,Right,2,Lean (170-185),76,74,79,81,68,73
+Bartra,80,80,17500000,28000,30,184,73,Real Betis Balompié,Spain Primera Division,RCB,Defense,Spain,Right,3,Lean (170-185),71,61,72,73,80,74
+João Pedro,80,80,21000000,46000,29,184,73,Cagliari,Italian Serie A,LS,Attack,Brazil,Right,1,Lean (170-185),72,78,77,81,41,74
+A. Mandi,80,81,19500000,37000,29,184,78,Villarreal CF,Spain Primera Division,LCB,Defense,Algeria,Right,1,Lean (170-185),66,46,74,70,81,74
+R. Freuler,80,80,20500000,58000,29,180,80,Atalanta,Italian Serie A,LCM,Midfield,Switzerland,Right,2,Normal (170-185),69,71,77,78,75,73
+T. Savanier,80,80,20500000,35000,29,172,69,Montpellier Hérault SC,French Ligue 1,CAM,Midfield,France,Right,2,Normal (170-185),67,74,83,82,69,69
+M. Keane,80,81,20000000,84000,28,191,82,Everton,English Premier League,LCB,Defense,England,Right,2,Normal (185+),55,49,65,65,82,80
+Roger,80,80,20500000,38000,30,179,74,Levante Unión Deportiva,Spain Primera Division,RS,Attack,Spain,Right,2,Normal (170-185),77,82,63,77,41,74
+Pacheco,80,82,17500000,25000,29,186,81,Deportivo Alavés,Spain Primera Division,GK,GoalKeeper,Spain,Left,1,Normal (185+),,,,,,
+D. Alli,80,82,26500000,90000,25,188,80,Tottenham Hotspur,English Premier League,LCM,Midfield,England,Right,3,Unique,68,78,78,82,65,75
+A. Christensen,80,85,28000000,95000,25,187,81,Chelsea,English Premier League,CB,Defense,Denmark,Right,2,Lean (185+),65,31,65,68,83,72
+W. Benítez,80,82,18000000,32000,28,191,93,OGC Nice,French Ligue 1,GK,GoalKeeper,Argentina,Right,2,Normal (185+),,,,,,
+G. Rulli,80,80,14500000,31000,29,189,84,Villarreal CF,Spain Primera Division,GK,GoalKeeper,Argentina,Right,3,Normal (185+),,,,,,
+Capa,80,80,18500000,32000,29,175,75,Athletic Club de Bilbao,Spain Primera Division,RB,Defense,Spain,Right,2,Stocky (170-185),82,64,76,77,74,88
+G. Di Lorenzo,80,80,20500000,63000,27,183,83,Napoli,Italian Serie A,RB,Defense,Italy,Right,2,Normal (170-185),84,66,73,76,76,79
+Embarba,80,80,20500000,26000,29,173,68,RCD Espanyol de Barcelona,Spain Primera Division,RM,Midfield,Spain,Right,1,Normal (170-185),83,77,78,79,55,72
+J. Denayer,80,83,24500000,64000,26,184,80,Olympique Lyonnais,French Ligue 1,LCB,Defense,Belgium,Right,3,Normal (170-185),83,43,67,71,81,81
+Borja Iglesias,80,80,21500000,34000,28,187,86,Real Betis Balompié,Spain Primera Division,ST,Attack,Spain,Right,1,Normal (185+),65,80,64,74,35,80
+Joan Jordán,80,81,24500000,33000,26,183,74,Sevilla FC,Spain Primera Division,RCM,Midfield,Spain,Right,1,Lean (170-185),63,75,81,77,67,76
+J. Bamba,80,83,28000000,42000,25,175,70,LOSC Lille,French Ligue 1,LM,Midfield,France,Right,2,Normal (170-185),89,75,74,81,39,69
+Álex Berenguer,80,81,25000000,32000,25,175,73,Athletic Club de Bilbao,Spain Primera Division,RM,Midfield,Spain,Right,1,Normal (170-185),82,76,76,81,63,65
+K. Tierney,80,86,31000000,69000,24,178,70,Arsenal,English Premier League,LB,Defense,Scotland,Left,2,Normal (170-185),84,60,75,77,75,79
+Nélson Semedo,80,81,22000000,81000,27,177,69,Wolverhampton Wanderers,English Premier League,RWB,Defense,Portugal,Right,2,Unique,82,57,68,81,75,75
+G. Mancini,80,84,26500000,52000,25,190,77,Roma,Italian Serie A,RCB,Defense,Italy,Right,2,Normal (185+),61,45,50,59,80,84
+Gerson,80,84,30000000,41000,24,184,72,Olympique de Marseille,French Ligue 1,CM,Midfield,Brazil,Left,2,Normal (170-185),74,64,79,80,78,77
+Renato Sanches,80,86,33000000,38000,23,176,70,LOSC Lille,French Ligue 1,LCM,Midfield,Portugal,Right,3,Normal (170-185),84,74,77,84,72,84
+Ç. Söyüncü,80,83,25000000,88000,25,185,82,Leicester City,English Premier League,RCB,Defense,Turkey,Right,1,Normal (185+),76,46,60,67,80,80
+V. Osimhen,80,87,43000000,66000,22,185,78,Napoli,Italian Serie A,ST,Attack,Nigeria,Right,2,Lean (185+),88,80,63,75,39,81
+B. Kamara,80,86,31000000,30000,21,184,68,Olympique de Marseille,French Ligue 1,RDM,Midfield,France,Right,2,Lean (170-185),74,50,72,73,79,78
+A. Bastoni,80,89,44500000,77000,22,190,75,Inter,Italian Serie A,LCB,Defense,Italy,Left,1,Lean (185+),65,33,65,69,82,80
+M. Gómez,80,85,32000000,40000,24,186,84,Valencia CF,Spain Primera Division,RS,Attack,Uruguay,Right,1,Stocky (185+),66,81,68,73,32,82
+V. Coufal,80,80,19000000,73000,28,175,76,West Ham United,English Premier League,RB,Defense,Czech Republic,Right,1,Normal (170-185),77,56,73,75,78,81
+B. Saka,80,88,45500000,50000,19,178,65,Arsenal,English Premier League,LM,Midfield,England,Left,2,Lean (170-185),84,68,76,82,65,64
+F. Ribéry,79,79,6000000,41000,38,170,72,US Salernitana 1919,Italian Serie A,RS,Attack,France,Right,4,Normal (170-),69,73,81,85,30,53
+B. Costil,79,79,5500000,24000,33,187,82,FC Girondins de Bordeaux,French Ligue 1,GK,GoalKeeper,France,Right,2,Normal (185+),,,,,,
+A. Candreva,79,79,8000000,25000,34,180,70,U.C. Sampdoria,Italian Serie A,RM,Midfield,Italy,Right,3,Normal (170-185),72,78,79,80,61,62
+D. Ospina,79,79,8500000,48000,32,183,80,Napoli,Italian Serie A,GK,GoalKeeper,Colombia,Right,2,Normal (170-185),,,,,,
+O. Giroud,79,79,8500000,48000,34,193,91,AC Milan,Italian Serie A,ST,Attack,France,Left,3,Normal (185+),39,80,70,71,42,77
+A. Cresswell,79,79,12500000,66000,31,175,66,West Ham United,English Premier League,LB,Defense,England,Left,2,Normal (170-185),70,60,75,76,77,68
+B. Mee,79,79,12000000,39000,31,180,82,Burnley,English Premier League,LCB,Defense,England,Left,1,Normal (170-185),62,42,58,63,81,78
+M. Antonio,79,79,15000000,79000,31,178,82,West Ham United,English Premier League,ST,Attack,Jamaica,Right,2,Stocky (170-185),83,76,73,78,55,83
+M. Silvestri,79,79,11500000,16000,30,191,80,Udinese Calcio,Italian Serie A,GK,GoalKeeper,Italy,Right,1,Normal (185+),,,,,,
+C. Wood,79,79,17500000,48000,29,191,92,Burnley,English Premier League,RS,Attack,New Zealand,Right,1,Normal (185+),64,79,60,70,40,81
+Marcos Alonso,79,79,15000000,95000,30,188,85,Chelsea,English Premier League,LWB,Defense,Spain,Left,2,Lean (185+),58,74,78,77,75,77
+Mario Gaspar,79,79,15000000,34000,30,180,77,Villarreal CF,Spain Primera Division,RB,Defense,Spain,Right,2,Normal (170-185),74,69,71,72,78,76
+X. Shaqiri,79,79,17000000,75000,29,169,72,Olympique Lyonnais,French Ligue 1,RM,Midfield,Switzerland,Left,3,Unique,75,76,80,81,46,67
+C. Wilson,79,79,17500000,53000,29,180,66,Newcastle United,English Premier League,RS,Attack,England,Right,2,Normal (170-185),80,78,66,78,41,77
+Germán,79,79,5500000,26000,34,187,82,Granada CF,Spain Primera Division,LCB,Defense,Spain,Right,1,Normal (185+),49,40,59,56,81,79
+Lucas Pérez,79,79,14000000,28000,32,180,73,Elche CF,Spain Primera Division,LS,Attack,Spain,Left,2,Normal (170-185),79,82,75,77,32,69
+G. Xhaka,79,79,15500000,80000,28,185,82,Arsenal,English Premier League,LDM,Midfield,Switzerland,Left,3,Normal (185+),50,64,79,69,69,80
+G. Kondogbia,79,79,17500000,58000,28,188,76,Atlético de Madrid,Spain Primera Division,CDM,Midfield,Central African Republic,Left,2,Lean (185+),68,74,75,77,78,89
+C. Coady,79,81,17500000,80000,28,186,80,Wolverhampton Wanderers,English Premier League,CB,Defense,England,Right,1,Normal (185+),47,58,75,67,79,75
+E. Dier,79,80,17500000,81000,27,190,90,Tottenham Hotspur,English Premier League,LCB,Defense,England,Right,2,Stocky (185+),53,64,69,64,79,83
+Deulofeu,79,79,18500000,22000,27,177,73,Udinese Calcio,Italian Serie A,CF,Attack,Spain,Right,3,Normal (170-185),88,73,73,83,30,64
+S. Arias,79,79,15500000,53000,29,178,72,Granada CF,Spain Primera Division,RB,Defense,Colombia,Right,2,Normal (170-185),77,53,70,76,77,74
+Manu Trigueros,79,79,17000000,39000,29,178,75,Villarreal CF,Spain Primera Division,RCM,Midfield,Spain,Right,2,Normal (170-185),56,71,78,78,70,67
+A. Doucouré,79,79,17500000,87000,28,184,76,Everton,English Premier League,RDM,Midfield,France,Right,2,Unique,70,76,72,76,77,81
+B. Djimsiti,79,81,17500000,51000,28,190,83,Atalanta,Italian Serie A,LCB,Defense,Albania,Right,1,Normal (185+),68,39,59,50,82,79
+De Tomás,79,82,23000000,26000,26,180,79,RCD Espanyol de Barcelona,Spain Primera Division,LS,Attack,Spain,Right,1,Normal (170-185),75,82,68,81,35,68
+Rubén García,79,79,18500000,33000,27,171,71,CA Osasuna,Spain Primera Division,LM,Midfield,Spain,Left,1,Normal (170-185),80,76,79,79,45,58
+José Sá,79,81,15000000,65000,28,192,84,Wolverhampton Wanderers,English Premier League,GK,GoalKeeper,Portugal,Right,1,Normal (185+),,,,,,
+A. Izzo,79,80,16000000,47000,29,183,81,Torino F.C.,Italian Serie A,RCB,Defense,Italy,Right,2,Normal (170-185),70,33,48,65,82,78
+D. Zappacosta,79,79,15500000,51000,29,182,75,Atalanta,Italian Serie A,RM,Midfield,Italy,Right,2,Lean (170-185),76,66,73,74,75,71
+A. Saint-Maximin,79,84,26500000,41000,24,173,67,Newcastle United,English Premier League,LS,Attack,France,Right,2,Stocky (170-185),91,69,70,87,25,61
+H. Traoré,79,79,15500000,49000,29,175,71,Stade Rennais FC,French Ligue 1,RB,Defense,Mali,Right,2,Normal (170-185),85,54,72,76,73,77
+R. Tapia,79,83,22000000,25000,25,185,80,RC Celta de Vigo,Spain Primera Division,CDM,Midfield,Peru,Right,1,Stocky (185+),69,69,72,73,79,82
+D. Sánchez,79,81,19500000,77000,25,187,79,Tottenham Hotspur,English Premier League,RCB,Defense,Colombia,Right,2,Unique,75,45,55,65,80,80
+Z. Çelik,79,82,22000000,32000,24,180,78,LOSC Lille,French Ligue 1,RB,Defense,Turkey,Right,2,Normal (170-185),79,58,71,72,75,79
+A. Golovin,79,83,24500000,53000,25,180,69,AS Monaco,French Ligue 1,LF,Attack,Russia,Right,3,Lean (170-185),81,72,79,83,67,69
+E. Buendía,79,84,26500000,61000,24,172,65,Aston Villa,English Premier League,RW,Attack,Argentina,Right,3,Stocky (170-185),73,73,80,81,64,67
+Aritz Elustondo,79,81,18500000,34000,27,180,71,Real Sociedad,Spain Primera Division,RCB,Defense,Spain,Right,1,Normal (170-185),66,33,61,60,79,77
+Pablo Fornals,79,82,23000000,69000,25,178,67,West Ham United,English Premier League,RM,Midfield,Spain,Right,2,Lean (170-185),68,74,79,79,69,68
+K. Dolberg,79,83,25500000,37000,23,187,84,OGC Nice,French Ligue 1,RS,Attack,Denmark,Right,2,Normal (185+),73,81,69,77,30,68
+Gabriel,79,84,24000000,65000,23,190,87,Arsenal,English Premier League,LCB,Defense,Brazil,Left,2,Normal (185+),68,36,60,58,80,80
+M. Arambarri,79,84,23500000,29000,25,175,74,Getafe CF,Spain Primera Division,RDM,Midfield,Uruguay,Right,1,Normal (170-185),47,60,72,72,77,76
+F. Tomori,79,85,25000000,35000,23,185,79,AC Milan,Italian Serie A,LCB,Defense,England,Right,2,Normal (185+),82,37,57,65,80,79
+J. Ikoné,79,83,25000000,36000,23,175,73,LOSC Lille,French Ligue 1,RM,Midfield,France,Left,3,Normal (170-185),89,70,74,83,35,60
+Y. Bissouma,79,84,24500000,50000,24,182,80,Brighton & Hove Albion,English Premier League,LCM,Midfield,Mali,Right,1,Normal (170-185),70,68,75,78,77,75
+E. Bardhi,79,80,21000000,32000,25,172,64,Levante Unión Deportiva,Spain Primera Division,LM,Midfield,North Macedonia,Right,2,Normal (170-185),75,81,78,82,63,56
+N. Maksimović,79,84,23000000,30000,26,189,78,Getafe CF,Spain Primera Division,LDM,Midfield,Serbia,Right,1,Normal (185+),56,68,75,71,77,78
+A. Tchouaméni,79,85,28000000,41000,21,187,81,AS Monaco,French Ligue 1,LCM,Midfield,France,Right,2,Normal (185+),72,69,75,77,77,82
+Emerson,79,84,25000000,70000,22,181,79,Tottenham Hotspur,English Premier League,RB,Defense,Brazil,Right,1,Lean (170-185),84,62,71,74,74,77
+Bruno Guimarães,79,84,24500000,52000,23,182,78,Olympique Lyonnais,French Ligue 1,RDM,Midfield,Brazil,Right,2,Normal (170-185),68,63,78,78,73,75
+S. Botman,79,85,25500000,27000,21,193,81,LOSC Lille,French Ligue 1,LCB,Defense,Netherlands,Left,2,Normal (185+),60,36,59,61,80,84
+Pepe Reina,78,78,1600000,27000,38,188,92,Lazio,Italian Serie A,GK,GoalKeeper,Spain,Right,3,Unique,,,,,,
+Negredo,78,78,6000000,27000,35,186,86,Cádiz CF,Spain Primera Division,ST,Attack,Spain,Left,3,Stocky (185+),59,81,64,72,36,77
+F. Quagliarella,78,78,4800000,19000,38,180,79,U.C. Sampdoria,Italian Serie A,RS,Attack,Italy,Right,2,Normal (170-185),61,83,74,79,30,63
+L. Koscielny,78,78,3700000,19000,35,186,80,FC Girondins de Bordeaux,French Ligue 1,CB,Defense,France,Right,3,Lean (185+),54,43,63,65,79,75
+Falcao,78,78,6000000,19000,35,177,72,Rayo Vallecano,Spain Primera Division,ST,Attack,Colombia,Right,3,Normal (170-185),56,79,67,76,41,69
+A. Guardado,78,78,4800000,24000,34,169,67,Real Betis Balompié,Spain Primera Division,LDM,Midfield,Mexico,Left,3,Lean (170-),64,68,80,79,73,69
+C. Ansaldi,78,78,5000000,41000,34,181,76,Torino F.C.,Italian Serie A,LM,Midfield,Argentina,Right,2,Normal (170-185),77,64,76,77,72,70
+A. Oukidja,78,78,7000000,17000,32,184,80,FC Metz,French Ligue 1,GK,GoalKeeper,Algeria,Right,2,Normal (170-185),,,,,,
+Ángel,78,78,7000000,31000,34,172,68,RCD Mallorca,Spain Primera Division,ST,Attack,Spain,Right,1,Lean (170-185),71,81,61,78,34,66
+Miguel Veloso,78,78,5500000,22000,35,180,79,Hellas Verona,Italian Serie A,LCM,Midfield,Portugal,Left,3,Normal (170-185),46,70,83,76,66,71
+S. Coleman,78,78,9500000,69000,32,177,77,Everton,English Premier League,RB,Defense,Republic of Ireland,Right,2,Normal (170-185),66,65,73,76,78,70
+M. Sissoko,78,78,10000000,51000,31,187,91,Watford,English Premier League,RCM,Midfield,France,Right,2,Unique,74,61,73,75,75,87
+M. Darmian,78,78,10000000,77000,31,182,70,Inter,Italian Serie A,RM,Midfield,Italy,Right,2,Normal (170-185),70,58,69,74,78,68
+G. Kakuta,78,78,13500000,32000,30,173,72,Racing Club de Lens,French Ligue 1,CAM,Midfield,Congo DR,Left,2,Lean (170-185),73,72,76,83,42,66
+C. Kouyaté,78,78,9500000,51000,31,189,83,Crystal Palace,English Premier League,CDM,Midfield,Senegal,Right,2,Lean (185+),64,64,62,69,78,85
+F. Caputo,78,78,9000000,38000,33,181,74,U.C. Sampdoria,Italian Serie A,LS,Attack,Italy,Right,1,Lean (170-185),82,79,62,78,30,67
+G. Bonaventura,78,78,11500000,52000,31,181,75,Fiorentina,Italian Serie A,RCM,Midfield,Italy,Right,2,Normal (170-185),69,75,80,80,70,65
+A. Westwood,78,78,10000000,36000,31,175,73,Burnley,English Premier League,RCM,Midfield,England,Right,1,Normal (170-185),58,62,80,74,74,75
+Pedro,78,78,9000000,61000,33,169,65,Lazio,Italian Serie A,RW,Attack,Spain,Right,3,Lean (170-),74,73,77,84,40,52
+Kike García,78,78,12000000,33000,31,186,79,CA Osasuna,Spain Primera Division,ST,Attack,Spain,Right,1,Normal (185+),61,81,64,74,44,74
+Escudero,78,78,10000000,24000,31,176,72,Granada CF,Spain Primera Division,LB,Defense,Spain,Left,1,Lean (170-185),69,63,74,71,78,71
+R. Soriano,78,78,13500000,35000,30,182,76,Bologna,Italian Serie A,CM,Midfield,Italy,Right,2,Normal (170-185),69,75,78,79,67,71
+Víctor Ruiz,78,78,9000000,24000,32,185,78,Real Betis Balompié,Spain Primera Division,LCB,Defense,Spain,Left,2,Normal (185+),50,42,65,60,79,78
+Laguardia,78,78,9500000,25000,31,185,80,Deportivo Alavés,Spain Primera Division,RCB,Defense,Spain,Right,1,Normal (185+),50,46,55,52,80,78
+Fransérgio,78,78,13500000,29000,30,187,82,FC Girondins de Bordeaux,French Ligue 1,LCM,Midfield,Brazil,Right,1,Normal (185+),59,75,75,75,73,80
+Oriol Romeu,78,78,12000000,53000,29,183,83,Southampton,English Premier League,LCM,Midfield,Spain,Right,2,Normal (170-185),41,44,62,65,80,81
+Vitolo,78,78,11500000,50000,31,185,79,Getafe CF,Spain Primera Division,RM,Midfield,Spain,Right,2,Normal (185+),76,76,76,77,41,72
+L. Dunk,78,79,13000000,56000,29,192,88,Brighton & Hove Albion,English Premier League,LCB,Defense,England,Right,1,Normal (185+),46,51,62,64,79,78
+D. Sidibé,78,78,12500000,48000,28,182,71,AS Monaco,French Ligue 1,RCB,Defense,France,Right,2,Normal (170-185),74,62,74,74,74,79
+Felipe Anderson,78,78,14000000,58000,28,175,70,Lazio,Italian Serie A,LW,Attack,Brazil,Right,3,Unique,85,74,76,82,55,59
+J. Vestergaard,78,79,13500000,83000,28,199,96,Leicester City,English Premier League,LCB,Defense,Denmark,Right,2,Normal (185+),32,48,62,49,79,82
+Héctor Bellerín,78,81,17000000,69000,26,178,74,Real Betis Balompié,Spain Primera Division,RB,Defense,Spain,Right,3,Lean (170-185),83,51,69,77,73,65
+D. Suárez,78,78,7500000,28000,33,173,68,Getafe CF,Spain Primera Division,RB,Defense,Uruguay,Right,1,Normal (170-185),73,69,73,74,76,77
+Mário Rui,78,78,12000000,54000,30,170,67,Napoli,Italian Serie A,LB,Defense,Portugal,Left,2,Lean (170-),80,49,73,79,71,64
+Denis Suárez,78,79,16000000,26000,27,178,66,RC Celta de Vigo,Spain Primera Division,CM,Midfield,Spain,Right,2,Lean (170-185),74,71,81,80,61,56
+P. Bamford,78,78,15000000,82000,27,185,71,Leeds United,English Premier League,ST,Attack,England,Left,2,Lean (185+),73,78,67,73,42,77
+Moi Gómez,78,78,15000000,33000,27,176,73,Villarreal CF,Spain Primera Division,RM,Midfield,Spain,Right,1,Normal (170-185),68,74,77,78,55,61
+B. Cristante,78,82,17500000,47000,26,186,80,Roma,Italian Serie A,RDM,Midfield,Italy,Right,2,Normal (185+),55,71,76,75,75,78
+R. Saïss,78,78,9500000,69000,31,188,84,Wolverhampton Wanderers,English Premier League,LCB,Defense,Morocco,Left,1,Lean (185+),58,56,69,70,79,77
+F. Mollet,78,78,14000000,30000,29,170,67,Montpellier Hérault SC,French Ligue 1,LM,Midfield,France,Right,2,Normal (170-),74,75,78,80,51,63
+Emerson,78,79,15000000,85000,26,176,79,Olympique Lyonnais,French Ligue 1,LB,Defense,Italy,Left,2,Normal (170-185),80,63,70,78,75,63
+J. McGinn,78,81,16500000,58000,26,178,68,Aston Villa,English Premier League,RCM,Midfield,Scotland,Left,2,Normal (170-185),70,73,75,78,71,80
+M. Dembélé,78,82,20500000,57000,24,183,79,Olympique Lyonnais,French Ligue 1,ST,Attack,France,Right,2,Normal (170-185),78,77,63,73,30,82
+T. Mings,78,80,14000000,61000,28,196,77,Aston Villa,English Premier League,LCB,Defense,England,Left,2,Normal (185+),72,44,67,66,78,81
+Adama Traoré,78,81,18500000,79000,25,178,72,Wolverhampton Wanderers,English Premier League,LW,Attack,Spain,Right,1,Unique,96,66,67,86,38,81
+B. Bourigeaud,78,79,16000000,47000,27,178,68,Stade Rennais FC,French Ligue 1,RCM,Midfield,France,Right,2,Lean (170-185),70,74,79,77,66,73
+Ayoze Pérez,78,78,15000000,95000,27,178,72,Leicester City,English Premier League,RM,Midfield,Spain,Right,1,Lean (170-185),77,73,72,80,58,67
+Dani García,78,78,11500000,29000,31,180,81,Athletic Club de Bilbao,Spain Primera Division,LCM,Midfield,Spain,Right,1,Normal (170-185),41,69,71,74,78,83
+S. Fofana,78,80,17500000,32000,26,185,74,Racing Club de Lens,French Ligue 1,LCM,Midfield,Côte d'Ivoire,Right,2,Normal (185+),76,71,72,78,72,79
+L. Dubois,78,79,15000000,55000,26,178,65,Olympique Lyonnais,French Ligue 1,RB,Defense,France,Right,3,Lean (170-185),72,59,75,73,76,74
+Álex Moreno,78,78,12500000,25000,28,179,68,Real Betis Balompié,Spain Primera Division,LB,Defense,Spain,Left,1,Lean (170-185),88,60,71,77,71,64
+L. Ajorque,78,79,16500000,29000,27,197,92,RC Strasbourg Alsace,French Ligue 1,LS,Attack,France,Left,2,Normal (185+),60,78,60,70,26,81
+B. Santamaria,78,80,15500000,43000,26,183,73,Stade Rennais FC,French Ligue 1,LCM,Midfield,France,Right,2,Lean (170-185),60,62,71,74,76,74
+R. Karsdorp,78,79,16500000,51000,26,184,80,Roma,Italian Serie A,RB,Defense,Netherlands,Right,2,Normal (170-185),87,64,74,77,76,78
+Sergio Herrera,78,80,12000000,24000,28,192,82,CA Osasuna,Spain Primera Division,GK,GoalKeeper,Spain,Right,1,Lean (185+),,,,,,
+David García,78,81,16000000,28000,27,185,72,CA Osasuna,Spain Primera Division,LCB,Defense,Spain,Right,1,Lean (185+),53,37,64,64,78,75
+G. Rodríguez,78,79,15000000,24000,26,185,80,Real Betis Balompié,Spain Primera Division,RDM,Midfield,Argentina,Right,1,Lean (185+),54,56,66,66,80,77
+A. Fulgini,78,82,20000000,23000,24,183,71,Angers SCO,French Ligue 1,CAM,Midfield,France,Right,2,Lean (170-185),74,70,74,81,68,73
+Gelson Martins,78,79,16500000,50000,26,173,74,AS Monaco,French Ligue 1,RM,Midfield,Portugal,Right,3,Normal (170-185),93,71,70,83,51,61
+M. Cash,78,83,20000000,50000,23,179,74,Aston Villa,English Premier League,RB,Defense,England,Right,2,Normal (170-185),81,63,68,73,72,66
+E. Konsa,78,84,20000000,50000,23,183,77,Aston Villa,English Premier League,RCB,Defense,England,Right,2,Lean (170-185),77,39,62,71,79,75
+E. Audero,78,81,15000000,14000,24,192,83,U.C. Sampdoria,Italian Serie A,GK,GoalKeeper,Italy,Right,1,Normal (185+),,,,,,
+D. Calabria,78,81,18000000,31000,24,177,70,AC Milan,Italian Serie A,RB,Defense,Italy,Right,2,Normal (170-185),77,50,67,73,76,72
+T. Abraham,78,86,31500000,49000,23,196,87,Roma,Italian Serie A,ST,Attack,England,Right,2,Lean (185+),70,78,62,72,31,70
+Brahim,78,86,31500000,30000,21,171,59,AC Milan,Italian Serie A,CAM,Midfield,Spain,Right,1,Normal (170-185),78,69,76,82,30,50
+A. Lafont,78,83,17500000,18000,22,196,90,FC Nantes,French Ligue 1,GK,GoalKeeper,France,Right,2,Lean (185+),,,,,,
+J. Harrison,78,84,22000000,66000,24,175,70,Leeds United,English Premier League,LM,Midfield,England,Left,1,Normal (170-185),83,71,72,79,42,68
+R. Le Normand,78,83,19000000,26000,24,187,81,Real Sociedad,Spain Primera Division,LCB,Defense,France,Right,1,Normal (185+),66,25,52,56,80,74
+Y. Herrera,78,84,22000000,90000,23,184,77,RCD Espanyol de Barcelona,Spain Primera Division,LDM,Midfield,Venezuela,Right,1,Lean (170-185),63,70,73,75,77,74
+Domingos Duarte,78,82,17500000,24000,26,190,78,Granada CF,Spain Primera Division,RCB,Defense,Portugal,Right,1,Lean (185+),56,35,58,54,80,78
+I. Sarr,78,86,31000000,53000,23,185,76,Watford,English Premier League,RM,Midfield,Senegal,Right,1,Lean (185+),94,76,67,80,22,67
+Reinildo,78,79,15000000,34000,27,180,73,LOSC Lille,French Ligue 1,LB,Defense,Mozambique,Left,1,Normal (170-185),77,54,65,73,76,78
+Luiz Felipe,78,85,26000000,44000,24,187,80,Lazio,Italian Serie A,RCB,Defense,Brazil,Right,1,Lean (185+),73,29,61,68,80,72
+A. Barák,78,81,18500000,33000,26,190,86,Hellas Verona,Italian Serie A,RF,Attack,Czech Republic,Left,1,Normal (185+),66,76,77,78,62,72
+N. Zaniolo,78,87,31500000,38000,21,190,79,Roma,Italian Serie A,RM,Midfield,Italy,Left,2,Unique,83,74,71,80,61,82
+M. Pessina,78,85,28000000,42000,24,183,75,Atalanta,Italian Serie A,LF,Attack,Italy,Left,2,Lean (170-185),70,70,74,78,67,72
+A. Gouiri,78,85,29000000,29000,21,180,72,OGC Nice,French Ligue 1,LS,Attack,France,Right,2,Normal (170-185),79,80,75,79,44,70
+Junior Firpo,78,82,18500000,59000,24,184,78,Leeds United,English Premier League,LB,Defense,Spain,Left,2,Lean (170-185),81,64,71,72,75,76
+P. Rajković,78,83,16500000,20000,25,191,85,Stade de Reims,French Ligue 1,GK,GoalKeeper,Serbia,Right,2,Normal (185+),,,,,,
+Luis Milla,78,82,17500000,24000,26,175,67,Granada CF,Spain Primera Division,LCM,Midfield,Spain,Right,1,Lean (170-185),72,70,76,74,74,75
+De Frutos,78,84,22000000,26000,24,176,71,Levante Unión Deportiva,Spain Primera Division,RM,Midfield,Spain,Right,1,Lean (170-185),83,70,74,81,37,59
+J. David,78,86,32000000,31000,21,177,77,LOSC Lille,French Ligue 1,RS,Attack,Canada,Right,2,Normal (170-185),85,76,71,78,25,70
+U. Račić,78,85,28000000,31000,23,193,81,Valencia CF,Spain Primera Division,LCM,Midfield,Serbia,Right,1,Normal (185+),66,75,75,74,78,81
+Puado,78,85,28000000,19000,23,177,69,RCD Espanyol de Barcelona,Spain Primera Division,LM,Midfield,Spain,Right,1,Normal (170-185),83,76,68,80,45,73
+Y. Fofana,78,83,21500000,43000,22,176,69,AS Monaco,French Ligue 1,RCM,Midfield,France,Right,2,Normal (170-185),71,67,74,77,74,78
+M. Greenwood,78,89,30500000,56000,19,181,70,Manchester United,English Premier League,RM,Midfield,England,Left,1,Lean (170-185),84,78,73,79,39,68
+D. Vlahović,78,85,29000000,43000,21,190,75,Fiorentina,Italian Serie A,ST,Attack,Serbia,Left,2,Normal (185+),75,78,58,73,28,76
+M. Caqueret,78,86,31500000,44000,21,174,63,Olympique Lyonnais,French Ligue 1,LDM,Midfield,France,Right,2,Lean (170-185),73,58,72,81,72,69
+Diego López,77,77,1200000,9000,39,196,89,RCD Espanyol de Barcelona,Spain Primera Division,GK,GoalKeeper,Spain,Right,3,Lean (185+),,,,,,
+T. Krul,77,77,3400000,27000,33,188,74,Norwich City,English Premier League,GK,GoalKeeper,Netherlands,Left,2,Lean (185+),,,,,,
+Joselu,77,77,9000000,27000,31,192,80,Deportivo Alavés,Spain Primera Division,ST,Attack,Spain,Right,1,Lean (185+),55,78,68,72,30,70
+K. Gameiro,77,77,5000000,27000,34,172,70,RC Strasbourg Alsace,French Ligue 1,RS,Attack,France,Right,3,Stocky (170-185),83,77,74,75,41,67
+D. Da Silva,77,77,5000000,51000,33,184,83,Olympique Lyonnais,French Ligue 1,RCB,Defense,France,Right,2,Normal (170-185),50,37,59,55,78,78
+M. Lanzini,77,77,10500000,64000,28,167,59,West Ham United,English Premier League,CAM,Midfield,Argentina,Right,2,Normal (170-),71,72,77,81,32,42
+Cote,77,77,7500000,26000,31,182,77,CA Osasuna,Spain Primera Division,LB,Defense,Spain,Left,1,Lean (170-185),67,54,74,73,77,69
+Oier,77,77,3000000,19000,35,178,72,CA Osasuna,Spain Primera Division,CDM,Midfield,Spain,Right,1,Normal (170-185),61,64,72,69,74,74
+L. Cabrera,77,77,8500000,19000,30,190,82,RCD Espanyol de Barcelona,Spain Primera Division,LCB,Defense,Uruguay,Left,1,Normal (185+),59,45,59,58,78,82
+Hugo Mallo,77,77,9000000,22000,30,173,69,RC Celta de Vigo,Spain Primera Division,RB,Defense,Spain,Right,2,Normal (170-185),66,39,68,67,74,74
+C. Dawson,77,77,7000000,56000,31,188,77,West Ham United,English Premier League,RCB,Defense,England,Right,2,Normal (185+),51,47,59,57,79,76
+A. Townsend,77,77,10500000,74000,29,178,73,Everton,English Premier League,RM,Midfield,England,Left,2,Normal (170-185),77,74,75,79,38,67
+M. Faraoni,77,77,9500000,27000,29,180,71,Hellas Verona,Italian Serie A,RM,Midfield,Italy,Right,1,Normal (170-185),74,71,73,74,70,76
+F. Lejeune,77,77,8500000,23000,30,189,81,Deportivo Alavés,Spain Primera Division,LCB,Defense,France,Right,2,Normal (185+),45,57,61,66,78,76
+M. Sels,77,79,8500000,20000,29,190,88,RC Strasbourg Alsace,French Ligue 1,GK,GoalKeeper,Belgium,Right,2,Normal (185+),,,,,,
+M. Bizot,77,78,8000000,16000,30,193,83,Stade Brestois 29,French Ligue 1,GK,GoalKeeper,Netherlands,Right,2,Normal (185+),,,,,,
+J. Murillo,77,78,9500000,20000,29,184,78,RC Celta de Vigo,Spain Primera Division,LCB,Defense,Colombia,Right,2,Normal (170-185),73,40,59,64,77,78
+David López,77,77,7000000,19000,31,183,81,RCD Espanyol de Barcelona,Spain Primera Division,RDM,Midfield,Spain,Right,1,Normal (170-185),56,58,66,65,78,76
+S. Armstrong,77,77,10500000,54000,29,183,75,Southampton,English Premier League,RM,Midfield,Scotland,Right,1,Normal (170-185),73,77,75,76,65,72
+Aleix Vidal,77,77,7500000,19000,31,177,70,RCD Espanyol de Barcelona,Spain Primera Division,RB,Defense,Spain,Right,2,Lean (170-185),81,67,74,78,72,70
+D. Foulquier,77,77,9500000,32000,28,183,78,Valencia CF,Spain Primera Division,RB,Defense,France,Right,1,Lean (170-185),77,63,70,73,73,77
+J. Lascelles,77,80,12000000,37000,27,188,83,Newcastle United,English Premier League,CB,Defense,England,Right,2,Normal (185+),58,35,51,56,77,79
+Clerc,77,77,9500000,27000,29,182,69,Levante Unión Deportiva,Spain Primera Division,LB,Defense,Spain,Left,1,Lean (170-185),87,58,71,76,70,73
+Y. Abdelhamid,77,77,5000000,25000,33,190,83,Stade de Reims,French Ligue 1,LCB,Defense,Morocco,Left,2,Normal (185+),33,33,56,65,78,83
+L. Trossard,77,78,12500000,55000,26,172,67,Brighton & Hove Albion,English Premier League,CAM,Midfield,Belgium,Right,1,Normal (170-185),82,76,74,80,30,61
+C. Bacca,77,77,5000000,26000,34,181,77,Granada CF,Spain Primera Division,ST,Attack,Colombia,Right,3,Stocky (170-185),67,75,64,75,33,65
+J. Veltman,77,77,9000000,52000,29,184,75,Brighton & Hove Albion,English Premier League,RWB,Defense,Netherlands,Right,2,Normal (170-185),64,49,66,69,79,76
+E. Hysaj,77,78,11000000,48000,27,182,70,Lazio,Italian Serie A,LB,Defense,Albania,Right,2,Normal (170-185),75,51,66,73,75,72
+N. Maupay,77,82,16000000,52000,24,173,69,Brighton & Hove Albion,English Premier League,RS,Attack,France,Right,1,Normal (170-185),77,78,67,73,41,71
+Diego Llorente,77,79,11000000,65000,27,186,76,Leeds United,English Premier League,RCB,Defense,Spain,Right,2,Lean (185+),71,40,62,65,76,78
+Santi Mina,77,81,15000000,25000,25,181,77,RC Celta de Vigo,Spain Primera Division,LS,Attack,Spain,Right,1,Lean (170-185),75,77,69,76,49,72
+I. Marcone,77,77,7500000,20000,31,182,79,Elche CF,Spain Primera Division,CDM,Midfield,Argentina,Right,1,Normal (170-185),47,63,71,71,73,80
+S. Guirassy,77,81,15000000,46000,25,187,82,Stade Rennais FC,French Ligue 1,LS,Attack,France,Right,2,Normal (185+),71,77,66,75,38,76
+B. Drągowski,77,81,12000000,30000,23,188,74,Fiorentina,Italian Serie A,GK,GoalKeeper,Poland,Right,1,Normal (185+),,,,,,
+J. Palomino,77,77,7000000,41000,31,188,87,Atalanta,Italian Serie A,CB,Defense,Argentina,Left,2,Normal (185+),46,32,55,59,79,81
+M. Targett,77,82,14500000,52000,25,183,70,Aston Villa,English Premier League,LB,Defense,England,Left,1,Normal (170-185),74,46,72,72,73,68
+G. Maripán,77,79,11000000,43000,27,193,83,AS Monaco,French Ligue 1,CB,Defense,Chile,Right,1,Normal (185+),34,41,54,51,78,80
+J. Ledesma,77,80,9500000,24000,28,186,83,Cádiz CF,Spain Primera Division,GK,GoalKeeper,Argentina,Right,1,Stocky (185+),,,,,,
+S. Benrahma,77,80,14000000,59000,25,172,67,West Ham United,English Premier League,LM,Midfield,Algeria,Right,1,Normal (170-185),77,72,73,81,38,54
+Unai López,77,81,14500000,21000,25,170,69,Rayo Vallecano,Spain Primera Division,RDM,Midfield,Spain,Right,1,Normal (170-),73,72,78,79,68,70
+J. Omlin,77,81,11000000,20000,27,189,80,Montpellier Hérault SC,French Ligue 1,GK,GoalKeeper,Switzerland,Right,1,Normal (185+),,,,,,
+P. Bernardoni,77,82,13000000,15000,24,190,78,Angers SCO,French Ligue 1,GK,GoalKeeper,France,Left,2,Normal (185+),,,,,,
+J. Andersen,77,80,12500000,45000,25,192,90,Crystal Palace,English Premier League,RCB,Defense,Denmark,Right,2,Normal (185+),58,47,63,59,77,78
+J. Boga,77,83,16500000,31000,24,174,72,U.S. Sassuolo Calcio,Italian Serie A,LM,Midfield,Côte d'Ivoire,Right,1,Normal (170-185),85,73,72,81,37,63
+G. Castrovilli,77,81,15000000,43000,24,179,72,Fiorentina,Italian Serie A,LCM,Midfield,Italy,Right,2,Lean (170-185),74,65,75,82,66,68
+M. Holgate,77,81,13500000,56000,24,184,75,Everton,English Premier League,RCB,Defense,England,Right,1,Lean (170-185),73,43,69,69,78,77
+Rubén Duarte,77,82,14500000,22000,25,180,75,Deportivo Alavés,Spain Primera Division,LB,Defense,Spain,Left,1,Normal (170-185),66,36,65,67,77,69
+Melero,77,78,12000000,28000,27,183,77,Levante Unión Deportiva,Spain Primera Division,RCM,Midfield,Spain,Right,1,Normal (170-185),63,76,74,72,73,76
+Pedraza,77,82,14500000,27000,25,184,73,Villarreal CF,Spain Primera Division,LB,Defense,Spain,Left,1,Lean (170-185),78,72,70,75,73,77
+M. Rashica,77,82,15500000,38000,25,177,73,Norwich City,English Premier League,LM,Midfield,Kosovo,Right,1,Lean (170-185),83,77,71,83,46,65
+F. Centonze,77,80,13000000,18000,25,182,75,FC Metz,French Ligue 1,RWB,Defense,France,Right,1,Lean (170-185),81,51,70,72,70,79
+N. Nández,77,82,15500000,31000,25,172,70,Cagliari,Italian Serie A,RM,Midfield,Uruguay,Right,2,Normal (170-185),77,67,72,77,76,83
+M. Almirón,77,78,12000000,40000,27,174,70,Newcastle United,English Premier League,LCM,Midfield,Paraguay,Left,1,Lean (170-185),86,72,74,79,53,63
+L. Blas,77,83,16500000,24000,23,180,70,FC Nantes,French Ligue 1,RS,Attack,France,Left,2,Normal (170-185),74,72,75,81,58,65
+R. Perraud,77,83,15500000,41000,23,173,68,Southampton,English Premier League,LB,Defense,France,Left,1,Normal (170-185),74,72,75,74,72,73
+Caio Henrique,77,81,14000000,37000,23,179,70,AS Monaco,French Ligue 1,LM,Midfield,Brazil,Left,1,Normal (170-185),72,54,74,75,73,59
+Salvi Sánchez,77,77,10000000,30000,30,175,64,Cádiz CF,Spain Primera Division,RM,Midfield,Spain,Right,1,Lean (170-185),89,70,74,76,39,53
+C. Ünder,77,79,13500000,42000,23,173,66,Olympique de Marseille,French Ligue 1,RM,Midfield,Turkey,Left,1,Normal (170-185),81,75,73,81,37,52
+M. Guendouzi,77,84,20000000,56000,22,185,68,Olympique de Marseille,French Ligue 1,LDM,Midfield,France,Right,1,Lean (185+),74,63,75,75,72,76
+Douglas Luiz,77,82,14500000,47000,23,175,66,Aston Villa,English Premier League,CDM,Midfield,Brazil,Right,2,Normal (170-185),67,67,74,76,74,69
+C. Stengs,77,84,21500000,28000,22,187,68,OGC Nice,French Ligue 1,RM,Midfield,Netherlands,Left,2,Lean (185+),76,68,75,80,33,59
+M. Terrier,77,81,15500000,42000,24,184,73,Stade Rennais FC,French Ligue 1,RS,Attack,France,Right,2,Lean (170-185),84,77,74,76,35,66
+J. Clauss,77,77,9500000,29000,28,178,67,Racing Club de Lens,French Ligue 1,RWB,Defense,France,Right,1,Lean (170-185),85,66,70,76,67,71
+N. González,77,83,17000000,47000,23,180,72,Fiorentina,Italian Serie A,LW,Attack,Argentina,Left,2,Lean (170-185),87,71,64,82,45,60
+Gorosabel,77,82,15000000,25000,24,174,70,Real Sociedad,Spain Primera Division,RB,Defense,Spain,Right,1,Lean (170-185),75,46,70,71,75,68
+S. Tonali,77,86,22500000,25000,21,181,79,AC Milan,Italian Serie A,RDM,Midfield,Italy,Right,1,Unique,78,65,77,76,72,76
+M. Damsgaard,77,87,23000000,16000,20,180,71,U.C. Sampdoria,Italian Serie A,LM,Midfield,Denmark,Right,2,Lean (170-185),85,69,72,82,48,63
+I. Meslier,77,85,20500000,34000,21,196,74,Leeds United,English Premier League,GK,GoalKeeper,France,Left,1,Lean (185+),,,,,,
+D. McNeil,77,83,17000000,27000,21,183,70,Burnley,English Premier League,LM,Midfield,England,Left,1,Lean (170-185),72,68,77,80,53,67
+Eric García,77,86,21500000,71000,20,182,76,FC Barcelona,Spain Primera Division,RCB,Defense,Spain,Right,2,Lean (170-185),65,44,65,66,79,72
+L. Suárez,77,86,23500000,23000,23,185,74,Granada CF,Spain Primera Division,LM,Midfield,Colombia,Right,1,Normal (185+),86,78,65,74,40,79
+J. Doku,77,88,23000000,29000,19,171,60,Stade Rennais FC,French Ligue 1,RM,Midfield,Belgium,Right,3,Normal (170-185),92,66,67,83,25,67
+Ibañez,77,85,22000000,37000,22,185,73,Roma,Italian Serie A,LCB,Defense,Brazil,Right,2,Normal (185+),81,32,45,57,79,77
+Dante,76,76,1300000,20000,37,189,91,OGC Nice,French Ligue 1,LCB,Defense,Brazil,Left,3,Normal (185+),32,51,67,64,78,76
+R. Bertrand,76,76,5500000,70000,31,179,85,Leicester City,English Premier League,LB,Defense,England,Left,2,Normal (170-185),74,53,72,75,73,71
+L. De Silvestri,76,76,3900000,28000,33,186,84,Bologna,Italian Serie A,RB,Defense,Italy,Right,2,Normal (185+),73,67,71,73,73,75
+D. Criscito,76,76,2400000,16000,34,183,75,Genoa,Italian Serie A,LCB,Defense,Italy,Left,2,Lean (170-185),73,61,75,72,78,71
+R. Thomas,76,76,3600000,21000,33,193,84,Angers SCO,French Ligue 1,LCB,Defense,France,Left,2,Lean (185+),35,33,54,48,78,73
+Adrien Silva,76,76,6000000,20000,32,175,69,U.C. Sampdoria,Italian Serie A,LCM,Midfield,Portugal,Right,3,Normal (170-185),53,73,77,76,69,67
+L. Ayling,76,76,6500000,63000,29,185,72,Leeds United,English Premier League,RB,Defense,England,Right,2,Lean (185+),66,54,64,72,76,75
+K. Strootman,76,76,6000000,35000,31,186,78,Cagliari,Italian Serie A,LCM,Midfield,Netherlands,Left,3,Normal (185+),50,75,74,74,75,77
+T. Pukki,76,76,6500000,37000,31,180,80,Norwich City,English Premier League,ST,Attack,Finland,Right,1,Normal (170-185),76,76,60,75,34,68
+P. Groß,76,76,7000000,51000,30,181,78,Brighton & Hove Albion,English Premier League,RCM,Midfield,Germany,Right,2,Lean (170-185),50,74,80,75,58,71
+N. Araújo,76,76,6500000,22000,29,188,87,RC Celta de Vigo,Spain Primera Division,RCB,Defense,Mexico,Right,1,Normal (185+),66,41,55,59,78,78
+M. Gonalons,76,76,5000000,21000,32,187,76,Granada CF,Spain Primera Division,CDM,Midfield,France,Right,3,Lean (185+),47,61,72,68,75,72
+F. Đuričić,76,76,7500000,32000,29,181,75,U.S. Sassuolo Calcio,Italian Serie A,CAM,Midfield,Serbia,Right,1,Lean (170-185),73,69,75,78,42,60
+W. Khazri,76,76,7500000,33000,30,176,82,AS Saint-Étienne,French Ligue 1,ST,Attack,Tunisia,Right,2,Stocky (170-185),69,79,76,77,42,67
+Tomás Pina,76,76,4600000,24000,33,184,78,Deportivo Alavés,Spain Primera Division,LDM,Midfield,Spain,Right,1,Lean (170-185),42,66,72,73,73,72
+N. Pallois,76,76,3600000,23000,33,189,89,FC Nantes,French Ligue 1,LCB,Defense,France,Left,2,Normal (185+),41,53,60,59,76,85
+Nolito,76,76,3500000,23000,34,175,73,RC Celta de Vigo,Spain Primera Division,LM,Midfield,Spain,Right,2,Normal (170-185),64,76,77,77,45,62
+Sergi Gómez,76,77,7000000,18000,29,185,76,RCD Espanyol de Barcelona,Spain Primera Division,RCB,Defense,Spain,Right,1,Normal (185+),58,40,64,61,78,73
+M. Lowton,76,76,5000000,31000,32,181,78,Burnley,English Premier League,RB,Defense,England,Right,1,Normal (170-185),66,61,73,72,76,74
+M. Badelj,76,76,5000000,16000,32,186,80,Genoa,Italian Serie A,CDM,Midfield,Croatia,Right,2,Lean (185+),50,63,74,72,73,72
+C. Biraghi,76,76,7000000,44000,28,185,78,Fiorentina,Italian Serie A,LB,Defense,Italy,Left,2,Normal (185+),75,65,74,73,72,69
+A. Gomis,76,78,7000000,30000,27,196,80,Stade Rennais FC,French Ligue 1,GK,GoalKeeper,Senegal,Right,1,Lean (185+),,,,,,
+T. Delaine,76,76,6500000,19000,29,180,70,FC Metz,French Ligue 1,LWB,Defense,France,Left,1,Normal (170-185),85,51,72,74,67,75
+C. Taylor,76,77,8000000,31000,27,185,70,Burnley,English Premier League,LB,Defense,England,Left,1,Normal (185+),69,54,70,72,75,77
+Alberto Moreno,76,76,7000000,28000,28,171,65,Villarreal CF,Spain Primera Division,LM,Midfield,Spain,Left,2,Normal (170-185),82,66,68,77,69,69
+I. Hayden,76,79,9000000,34000,26,185,79,Newcastle United,English Premier League,CM,Midfield,England,Right,1,Normal (185+),58,60,63,70,75,78
+D. Cheryshev,76,76,7000000,31000,30,179,74,Valencia CF,Spain Primera Division,LM,Midfield,Russia,Left,2,Normal (170-185),76,75,74,74,55,67
+J. Ferri,76,76,6500000,24000,29,173,73,Montpellier Hérault SC,French Ligue 1,RDM,Midfield,France,Right,2,Normal (170-185),59,65,74,73,69,75
+T. Foket,76,78,8500000,23000,26,177,67,Stade de Reims,French Ligue 1,RWB,Defense,Belgium,Right,1,Lean (170-185),75,57,69,72,73,77
+A. Thomasson,76,77,8500000,23000,27,177,72,RC Strasbourg Alsace,French Ligue 1,CAM,Midfield,France,Right,2,Lean (170-185),68,70,76,77,65,69
+F. Schär,76,77,7000000,36000,29,188,84,Newcastle United,English Premier League,RCB,Defense,Switzerland,Right,2,Normal (185+),58,67,70,68,77,75
+D. Lazović,76,76,7000000,26000,30,181,66,Hellas Verona,Italian Serie A,LM,Midfield,Serbia,Right,1,Lean (170-185),85,68,72,77,61,56
+A. Djiku,76,79,8500000,21000,26,182,81,RC Strasbourg Alsace,French Ligue 1,RCB,Defense,Ghana,Right,2,Normal (170-185),71,42,66,69,75,81
+I. Toney,76,80,10500000,46000,25,187,70,Brentford,English Premier League,LS,Attack,England,Right,1,Normal (185+),80,75,58,72,46,80
+Hwang Ui Jo,76,76,7500000,29000,28,185,82,FC Girondins de Bordeaux,French Ligue 1,LS,Attack,Korea Republic,Right,2,Lean (185+),78,77,64,74,42,73
+F. Tait,76,76,7500000,43000,28,175,70,Stade Rennais FC,French Ligue 1,LM,Midfield,France,Right,2,Normal (170-185),73,69,73,77,35,64
+A. El Ghazi,76,77,9000000,56000,26,188,90,Aston Villa,English Premier League,LW,Attack,Netherlands,Right,1,Normal (185+),73,78,70,76,35,69
+M. Caldara,76,76,7000000,32000,27,187,80,Venezia FC,Italian Serie A,LCB,Defense,Italy,Right,2,Normal (185+),58,34,46,63,79,71
+J. Brownhill,76,79,10000000,33000,25,180,69,Burnley,English Premier League,LCM,Midfield,England,Right,1,Normal (170-185),69,67,72,74,74,76
+A. Armstrong,76,82,12000000,46000,24,172,69,Southampton,English Premier League,LS,Attack,England,Right,1,Normal (170-185),90,77,66,76,35,71
+Otávio,76,78,8000000,23000,27,173,73,FC Girondins de Bordeaux,French Ligue 1,CM,Midfield,Brazil,Right,2,Normal (170-185),61,55,67,72,75,76
+S. Mavididi,76,81,11500000,22000,23,182,71,Montpellier Hérault SC,French Ligue 1,ST,Attack,England,Right,1,Normal (170-185),89,72,67,75,27,67
+D. Bouanga,76,77,9000000,30000,26,180,70,AS Saint-Étienne,French Ligue 1,LM,Midfield,Gabon,Right,2,Normal (170-185),80,75,70,78,38,69
+C. Adams,76,81,11500000,46000,24,178,70,Southampton,English Premier League,RS,Attack,Scotland,Right,1,Stocky (170-185),84,77,62,74,40,77
+A. Zambo Anguissa,76,80,10500000,49000,25,184,78,Napoli,Italian Serie A,LCM,Midfield,Cameroon,Right,1,Lean (170-185),77,64,70,80,74,82
+L. Martínez Quarta,76,83,13500000,40000,25,183,78,Fiorentina,Italian Serie A,LCB,Defense,Argentina,Right,2,Lean (170-185),67,56,69,70,75,78
+Robert Sanchéz,76,82,9500000,31000,23,197,85,Brighton & Hove Albion,English Premier League,GK,GoalKeeper,Spain,Right,1,Normal (185+),,,,,,
+P. Lees-Melou,76,76,7500000,36000,28,186,70,Norwich City,English Premier League,RCM,Midfield,France,Right,1,Lean (185+),67,72,77,76,67,74
+B. White,76,85,15500000,52000,23,185,77,Arsenal,English Premier League,RCB,Defense,England,Right,1,Lean (185+),69,27,61,67,77,76
+Isi,76,76,8000000,20000,26,169,71,Rayo Vallecano,Spain Primera Division,RM,Midfield,Spain,Left,1,Normal (170-),86,74,73,77,39,65
+R. Orsolini,76,82,12000000,27000,24,183,73,Bologna,Italian Serie A,RW,Attack,Italy,Left,2,Normal (170-185),80,70,74,81,39,65
+Brais Méndez,76,82,12000000,20000,24,187,76,RC Celta de Vigo,Spain Primera Division,RM,Midfield,Spain,Left,1,Lean (185+),71,74,76,74,50,63
+D. Brašanac,76,76,7500000,28000,29,178,73,CA Osasuna,Spain Primera Division,LCM,Midfield,Serbia,Right,1,Normal (170-185),55,70,73,73,72,73
+J. Kluivert,76,83,15000000,39000,22,172,66,OGC Nice,French Ligue 1,LM,Midfield,Netherlands,Right,1,Normal (170-185),89,72,67,81,37,58
+N. Milenković,76,83,14000000,36000,23,195,90,Fiorentina,Italian Serie A,RCB,Defense,Serbia,Right,2,Normal (185+),66,44,61,62,76,81
+Bremer,76,82,11000000,31000,24,188,82,Torino F.C.,Italian Serie A,CB,Defense,Brazil,Right,1,Normal (185+),64,35,51,62,77,74
+M. Olivera,76,84,16000000,21000,23,184,78,Getafe CF,Spain Primera Division,LB,Defense,Uruguay,Left,1,Normal (170-185),76,50,65,70,74,77
+Y. Atal,76,80,9500000,26000,25,175,66,OGC Nice,French Ligue 1,RB,Defense,Algeria,Right,2,Lean (170-185),90,68,71,79,70,69
+M. Barrow,76,83,15000000,37000,22,183,70,Bologna,Italian Serie A,LW,Attack,Gambia,Right,1,Lean (170-185),84,74,67,77,31,63
+B. Badiashile,76,84,15500000,29000,20,194,75,AS Monaco,French Ligue 1,LCB,Defense,France,Left,2,Normal (185+),62,39,63,58,77,76
+A. Saelemaekers,76,81,11500000,34000,22,180,72,AC Milan,Italian Serie A,RM,Midfield,Belgium,Right,1,Lean (170-185),81,66,74,78,62,68
+N. Aguerd,76,80,9500000,36000,25,188,76,Stade Rennais FC,French Ligue 1,LCB,Defense,Morocco,Left,2,Lean (185+),60,45,60,61,76,77
+Trincão,76,85,17000000,84000,21,183,77,Wolverhampton Wanderers,English Premier League,RW,Attack,Portugal,Left,1,Lean (170-185),79,71,70,81,37,69
+M. Salisu,76,84,15500000,38000,22,191,85,Southampton,English Premier League,LCB,Defense,Ghana,Left,1,Normal (185+),67,36,51,55,76,79
+J. Todibo,76,84,15500000,20000,21,190,88,OGC Nice,French Ligue 1,RCB,Defense,France,Right,1,Lean (185+),76,44,61,64,77,76
+S. Dest,76,85,15500000,67000,20,175,62,FC Barcelona,Spain Primera Division,RB,Defense,United States,Right,1,Normal (170-185),87,59,72,81,67,66
+M. Viña,76,82,11000000,35000,23,181,70,Roma,Italian Serie A,LB,Defense,Uruguay,Left,1,Lean (170-185),82,62,71,75,69,69
+J. Leca,75,75,625000,13000,35,180,75,Racing Club de Lens,French Ligue 1,GK,GoalKeeper,France,Right,2,Stocky (170-185),,,,,,
+Salva Sevilla,75,75,1100000,16000,37,178,71,RCD Mallorca,Spain Primera Division,RDM,Midfield,Spain,Right,2,Normal (170-185),44,72,79,71,69,64
+J. McArthur,75,75,3500000,46000,33,178,66,Crystal Palace,English Premier League,RCM,Midfield,Scotland,Right,1,Normal (170-185),53,66,72,74,75,73
+Ó. Trejo,75,75,2800000,18000,33,180,79,Rayo Vallecano,Spain Primera Division,CAM,Midfield,Argentina,Right,1,Normal (170-185),71,72,75,78,69,77
+M. Sakho,75,75,3800000,22000,31,187,83,Montpellier Hérault SC,French Ligue 1,LCB,Defense,France,Left,3,Normal (185+),47,33,64,55,74,79
+C. Benteke,75,75,5500000,50000,30,190,83,Crystal Palace,English Premier League,ST,Attack,Belgium,Right,2,Lean (185+),54,76,62,68,32,75
+I. Traoré,75,75,1800000,20000,34,184,87,Angers SCO,French Ligue 1,CB,Defense,Côte d'Ivoire,Right,2,Stocky (170-185),40,39,58,50,75,86
+A. Barnes,75,75,4800000,35000,31,186,84,Burnley,English Premier League,LS,Attack,England,Right,1,Normal (185+),57,75,68,72,47,79
+A. McCarthy,75,75,3000000,34000,31,193,79,Southampton,English Premier League,GK,GoalKeeper,England,Right,1,Lean (185+),,,,,,
+L. Cooper,75,75,4700000,60000,29,188,73,Leeds United,English Premier League,LCB,Defense,Scotland,Left,1,Lean (185+),50,35,56,58,76,78
+Ł. Skorupski,75,76,4200000,22000,30,187,84,Bologna,Italian Serie A,GK,GoalKeeper,Poland,Right,2,Normal (185+),,,,,,
+Balenziaga,75,75,2900000,22000,33,177,77,Athletic Club de Bilbao,Spain Primera Division,LB,Defense,Spain,Left,1,Normal (170-185),75,46,69,70,73,75
+J. Zoet,75,75,3700000,13000,30,189,88,Spezia,Italian Serie A,GK,GoalKeeper,Netherlands,Right,2,Normal (185+),,,,,,
+J. Guðmundsson,75,75,5500000,32000,30,179,77,Burnley,English Premier League,RM,Midfield,Iceland,Left,1,Normal (170-185),67,73,76,75,61,67
+R. Hamouma,75,75,2700000,31000,34,178,76,AS Saint-Étienne,French Ligue 1,RM,Midfield,France,Right,2,Normal (170-185),67,76,75,78,42,64
+M. Klich,75,75,4600000,63000,31,183,82,Leeds United,English Premier League,LCM,Midfield,Poland,Right,1,Lean (170-185),66,72,74,73,61,75
+J. Larsen,75,75,5500000,17000,30,180,82,Udinese Calcio,Italian Serie A,LM,Midfield,Denmark,Right,1,Normal (170-185),79,61,72,74,70,77
+P. Jansson,75,75,4600000,38000,30,194,86,Brentford,English Premier League,CB,Defense,Sweden,Right,1,Normal (185+),59,42,53,62,75,80
+J. Ayew,75,75,5500000,52000,29,182,81,Crystal Palace,English Premier League,LW,Attack,Ghana,Right,2,Normal (170-185),76,74,70,78,46,72
+Dani Rodríguez,75,75,3500000,24000,33,178,71,RCD Mallorca,Spain Primera Division,LM,Midfield,Spain,Right,1,Normal (170-185),85,75,74,72,63,69
+G. Hanley,75,75,4700000,31000,29,187,81,Norwich City,English Premier League,RCB,Defense,Scotland,Right,1,Normal (185+),52,32,45,51,76,74
+Álex Fernández,75,75,5500000,28000,28,182,72,Cádiz CF,Spain Primera Division,CAM,Midfield,Spain,Right,1,Lean (170-185),57,70,79,74,68,64
+A. Soumaoro,75,76,5000000,28000,29,187,91,Bologna,Italian Serie A,LCB,Defense,France,Right,1,Stocky (185+),56,37,55,55,74,80
+F. Fernández,75,75,3600000,33000,32,190,83,Newcastle United,English Premier League,LCB,Defense,Argentina,Right,2,Normal (185+),47,30,55,54,76,74
+G. Caprari,75,75,6000000,21000,27,176,72,Hellas Verona,Italian Serie A,LF,Attack,Italy,Right,2,Normal (170-185),84,70,70,81,20,49
+S. Dallas,75,75,5500000,63000,30,183,81,Leeds United,English Premier League,RCM,Midfield,Northern Ireland,Right,1,Lean (170-185),74,69,70,73,73,75
+K. Günter,75,77,6000000,23000,26,184,79,Hellas Verona,Italian Serie A,CB,Defense,Germany,Right,1,Normal (170-185),65,31,56,62,76,72
+L. Pavoletti,75,75,4600000,32000,32,188,85,Cagliari,Italian Serie A,RS,Attack,Italy,Right,2,Normal (185+),56,73,51,68,35,72
+C. Chambers,75,77,6500000,58000,26,182,82,Arsenal,English Premier League,RB,Defense,England,Right,2,Normal (170-185),66,56,70,68,76,76
+S. March,75,76,6000000,44000,26,180,77,Brighton & Hove Albion,English Premier League,LWB,Defense,England,Left,1,Lean (170-185),73,67,73,77,67,62
+A. Webster,75,80,7500000,44000,26,191,75,Brighton & Hove Albion,English Premier League,RCB,Defense,England,Right,1,Normal (185+),69,31,59,68,75,74
+Marçal,75,75,3900000,58000,32,178,72,Wolverhampton Wanderers,English Premier League,LWB,Defense,Brazil,Left,2,Normal (170-185),71,56,71,72,75,71
+M. Dituro,75,75,950000,16000,34,191,86,RC Celta de Vigo,Spain Primera Division,GK,GoalKeeper,Argentina,Right,1,Normal (185+),,,,,,
+Kévin Rodrigues,75,76,6000000,26000,27,170,70,Rayo Vallecano,Spain Primera Division,LB,Defense,Portugal,Left,1,Normal (170-),75,59,75,72,70,60
+S. Dimitrievski,75,79,6000000,14000,27,188,84,Rayo Vallecano,Spain Primera Division,GK,GoalKeeper,North Macedonia,Right,1,Normal (185+),,,,,,
+Pere Pons,75,75,5500000,23000,28,177,70,Deportivo Alavés,Spain Primera Division,RDM,Midfield,Spain,Right,1,Lean (170-185),62,62,72,74,69,70
+M. Lemina,75,75,6000000,29000,27,184,85,OGC Nice,French Ligue 1,LCM,Midfield,Gabon,Right,2,Normal (170-185),71,68,73,76,72,75
+L. Abergel,75,76,5500000,18000,28,170,65,FC Lorient,French Ligue 1,LCM,Midfield,France,Right,1,Normal (170-),72,49,68,73,71,75
+P. Dawidowicz,75,78,6500000,23000,26,189,80,Hellas Verona,Italian Serie A,RCB,Defense,Poland,Right,1,Lean (185+),62,46,61,62,76,77
+E. Pulgar,75,77,6000000,40000,27,187,74,Fiorentina,Italian Serie A,CM,Midfield,Chile,Right,1,Lean (185+),63,62,75,74,72,74
+N. Maksimović,75,75,4700000,16000,29,193,87,Genoa,Italian Serie A,CB,Defense,Serbia,Right,2,Normal (185+),58,28,47,55,77,77
+Álvaro García,75,75,5500000,20000,28,167,61,Rayo Vallecano,Spain Primera Division,LM,Midfield,Spain,Left,1,Lean (170-),92,64,70,73,30,45
+G. Simeone,75,78,7500000,30000,25,181,81,Hellas Verona,Italian Serie A,ST,Attack,Argentina,Right,2,Normal (170-185),76,74,59,75,37,70
+M. Simon,75,76,6500000,23000,25,168,69,FC Nantes,French Ligue 1,LM,Midfield,Nigeria,Right,2,Normal (170-),92,70,66,79,34,65
+D. Gray,75,78,7500000,66000,25,183,75,Everton,English Premier League,CAM,Midfield,England,Right,2,Lean (170-185),86,71,67,79,37,55
+F. Honorat,75,77,7500000,16000,24,180,70,Stade Brestois 29,French Ligue 1,RM,Midfield,France,Right,2,Lean (170-185),77,73,71,75,47,57
+J. Gradit,75,76,5500000,26000,28,180,75,Racing Club de Lens,French Ligue 1,RCB,Defense,France,Right,1,Normal (170-185),71,29,60,67,75,82
+Pablo Maffeo,75,82,10500000,20000,23,172,70,RCD Mallorca,Spain Primera Division,RB,Defense,Spain,Right,1,Normal (170-185),85,52,67,72,72,69
+E. Ünal,75,81,9000000,24000,24,187,78,Getafe CF,Spain Primera Division,RS,Attack,Turkey,Right,1,Normal (185+),68,77,64,75,36,77
+J. Sambia,75,80,8000000,19000,24,185,73,Montpellier Hérault SC,French Ligue 1,RB,Defense,France,Right,1,Lean (185+),75,69,72,73,71,70
+A. Nübel,75,80,7000000,34000,24,193,88,AS Monaco,French Ligue 1,GK,GoalKeeper,Germany,Right,1,Normal (185+),,,,,,
+M. Lopez,75,79,8000000,25000,23,167,58,U.S. Sassuolo Calcio,Italian Serie A,LDM,Midfield,France,Right,1,Lean (170-),71,66,77,77,65,57
+K. Ajer,75,83,11500000,33000,23,196,94,Brentford,English Premier League,RCB,Defense,Norway,Right,1,Normal (185+),73,55,61,68,75,83
+H. Belkebla,75,77,6000000,17000,27,177,68,Stade Brestois 29,French Ligue 1,LDM,Midfield,Algeria,Right,1,Lean (170-185),60,49,71,71,70,73
+R. Mandragora,75,81,9000000,51000,24,183,75,Torino F.C.,Italian Serie A,RCM,Midfield,Italy,Left,2,Lean (170-185),57,63,74,75,74,76
+Hernani,75,78,6500000,27000,27,188,77,Genoa,Italian Serie A,RCM,Midfield,Brazil,Right,1,Lean (185+),65,69,69,72,74,70
+T. Cantwell,75,82,11500000,28000,23,177,70,Norwich City,English Premier League,RM,Midfield,England,Right,1,Lean (170-185),72,68,72,78,39,51
+H. Moukoudi,75,80,7500000,23000,23,191,74,AS Saint-Étienne,French Ligue 1,LCB,Defense,Cameroon,Right,1,Stocky (185+),53,32,51,49,75,80
+M. Pjaca,75,76,6500000,63000,26,186,83,Torino F.C.,Italian Serie A,LF,Attack,Croatia,Right,2,Normal (185+),76,67,74,81,41,63
+Fali,75,77,6000000,25000,27,186,84,Cádiz CF,Spain Primera Division,LCB,Defense,Spain,Right,1,Normal (185+),55,53,66,59,74,87
+Javi Galán,75,77,6500000,20000,26,172,70,RC Celta de Vigo,Spain Primera Division,LB,Defense,Spain,Left,1,Normal (170-185),77,54,72,74,69,67
+R. Del Castillo,75,78,7500000,18000,25,172,65,Stade Brestois 29,French Ligue 1,LM,Midfield,France,Left,1,Normal (170-185),77,68,72,79,39,65
+P. Rosario,75,79,7500000,23000,24,188,73,OGC Nice,French Ligue 1,RCM,Midfield,Netherlands,Right,1,Normal (185+),67,64,68,72,72,78
+D. Bronn,75,78,6500000,17000,26,185,77,FC Metz,French Ligue 1,RCB,Defense,Tunisia,Right,1,Normal (185+),66,61,67,65,76,76
+G. Konan,75,78,7000000,21000,25,176,71,Stade de Reims,French Ligue 1,LWB,Defense,Côte d'Ivoire,Left,1,Normal (170-185),79,48,68,75,70,71
+A. Elis,75,78,7500000,16000,25,180,73,FC Girondins de Bordeaux,French Ligue 1,RS,Attack,Honduras,Right,1,Normal (170-185),90,71,63,77,31,74
+S. Lukić,75,80,8500000,33000,24,183,77,Torino F.C.,Italian Serie A,LCM,Midfield,Serbia,Right,1,Normal (170-185),64,63,75,77,69,68
+F. Medina,75,80,8000000,21000,22,184,77,Racing Club de Lens,French Ligue 1,LCB,Defense,Argentina,Left,1,Stocky (170-185),78,33,60,68,76,75
+H. Maïga,75,78,6500000,16000,25,181,80,FC Metz,French Ligue 1,RCM,Midfield,Côte d'Ivoire,Right,1,Normal (170-185),59,55,67,68,71,86
+J. Willock,75,83,12500000,26000,21,186,76,Newcastle United,English Premier League,RCM,Midfield,England,Right,1,Lean (185+),76,72,68,76,61,69
+Y. Neyou,75,80,8000000,23000,24,180,63,AS Saint-Étienne,French Ligue 1,LDM,Midfield,Cameroon,Right,1,Lean (170-185),65,60,67,76,73,67
+T. Kubo,75,88,13500000,77000,20,173,67,RCD Mallorca,Spain Primera Division,CAM,Midfield,Japan,Left,1,Lean (170-185),81,66,68,82,39,56
+N. Domínguez,75,83,12500000,25000,23,179,73,Bologna,Italian Serie A,RDM,Midfield,Argentina,Right,1,Lean (170-185),75,66,70,75,71,77
+Mama Baldé,75,77,7000000,19000,25,176,69,ESTAC Troyes,French Ligue 1,LM,Midfield,Guinea Bissau,Right,1,Normal (170-185),91,72,67,73,50,79
+Nacho Vidal,75,78,7000000,23000,26,180,75,CA Osasuna,Spain Primera Division,RB,Defense,Spain,Right,1,Lean (170-185),77,55,69,70,71,65
+F. Onyeka,75,81,8000000,33000,23,183,70,Brentford,English Premier League,RCM,Midfield,Nigeria,Right,1,Lean (170-185),87,58,66,72,74,81
+M. Aarons,75,83,12000000,21000,21,178,69,Norwich City,English Premier League,RB,Defense,England,Right,1,Normal (170-185),81,42,64,75,70,71
+O. Skipp,75,85,11500000,44000,20,178,70,Tottenham Hotspur,English Premier League,CDM,Midfield,England,Right,1,Normal (170-185),62,46,67,67,71,70
+R. Faivre,75,83,12500000,16000,22,180,69,Stade Brestois 29,French Ligue 1,CAM,Midfield,France,Left,2,Lean (170-185),74,72,73,78,63,63
+Y. Adli,75,81,8500000,25000,20,186,78,FC Girondins de Bordeaux,French Ligue 1,RCM,Midfield,France,Right,1,Lean (185+),62,70,75,74,66,66
+M. Camara,75,80,8000000,23000,23,178,69,AS Saint-Étienne,French Ligue 1,RDM,Midfield,France,Right,1,Normal (170-185),63,57,67,71,73,72
+W. Saliba,75,84,11500000,41000,20,192,85,Olympique de Marseille,French Ligue 1,RCB,Defense,France,Right,2,Normal (185+),70,33,62,66,76,77
+Adrià Pedrosa,75,82,10500000,14000,23,176,69,RCD Espanyol de Barcelona,Spain Primera Division,LB,Defense,Spain,Left,1,Lean (170-185),89,60,69,75,69,69
+Unai Vencedor,75,83,12500000,18000,20,176,71,Athletic Club de Bilbao,Spain Primera Division,RCM,Midfield,Spain,Right,1,Normal (170-185),66,70,72,74,73,74
+Moncayola,75,85,12000000,20000,23,189,86,CA Osasuna,Spain Primera Division,RCM,Midfield,Spain,Right,1,Normal (185+),66,64,72,70,71,69
+A. Truffert,75,83,11500000,19000,19,173,63,Stade Rennais FC,French Ligue 1,LB,Defense,France,Left,1,Lean (170-185),74,55,70,73,71,69
+G. Mamardashvili,75,83,10500000,14000,20,199,88,Valencia CF,Spain Primera Division,GK,GoalKeeper,Georgia,Left,1,Lean (185+),,,,,,
+G. Pandev,74,74,1400000,13000,37,184,75,Genoa,Italian Serie A,RS,Attack,North Macedonia,Left,3,Normal (170-185),54,78,72,79,37,49
+Y. Cahuzac,74,74,825000,16000,36,178,72,Racing Club de Lens,French Ligue 1,RCM,Midfield,France,Right,2,Normal (170-185),34,46,63,62,73,77
+T. Mangani,74,74,1900000,21000,34,183,79,Angers SCO,French Ligue 1,LDM,Midfield,France,Left,2,Normal (170-185),48,69,76,70,70,72
+J. Ward,74,74,3100000,39000,31,188,83,Crystal Palace,English Premier League,RB,Defense,England,Right,1,Lean (185+),54,52,67,66,77,71
+M. Ritchie,74,74,3100000,30000,31,172,76,Newcastle United,English Premier League,LWB,Defense,Scotland,Left,1,Normal (170-185),65,73,75,76,65,69
+Fidel,74,74,3500000,18000,31,180,74,Elche CF,Spain Primera Division,LCM,Midfield,Spain,Left,1,Lean (170-185),74,71,73,72,47,66
+T. Cleverley,74,74,3500000,43000,31,175,67,Watford,English Premier League,LCM,Midfield,England,Right,2,Normal (170-185),60,69,74,73,61,65
+V. Manceau,74,74,3100000,19000,31,176,70,Angers SCO,French Ligue 1,RCB,Defense,France,Right,1,Normal (170-185),45,47,70,73,75,72
+B. Nuytinck,74,74,2900000,14000,31,190,82,Udinese Calcio,Italian Serie A,CB,Defense,Netherlands,Left,1,Normal (185+),33,40,54,55,77,69
+M. Destro,74,74,4100000,17000,30,182,80,Genoa,Italian Serie A,LS,Attack,Italy,Right,2,Normal (170-185),69,75,60,72,29,60
+Ximo Navarro,74,74,3100000,19000,31,176,75,Deportivo Alavés,Spain Primera Division,RB,Defense,Spain,Right,1,Normal (170-185),73,47,65,68,70,76
+J. Stephens,74,76,4500000,39000,27,185,75,Southampton,English Premier League,RCB,Defense,England,Right,1,Normal (185+),53,42,61,67,76,73
+I. Balliu,74,74,3700000,17000,29,174,65,Rayo Vallecano,Spain Primera Division,RB,Defense,Albania,Right,1,Normal (170-185),84,39,68,74,69,72
+A. Lozano,74,74,4300000,28000,28,185,74,Cádiz CF,Spain Primera Division,LM,Midfield,Honduras,Right,1,Normal (185+),78,74,63,69,36,75
+F. Ceccherini,74,75,3900000,22000,29,187,75,Hellas Verona,Italian Serie A,LCB,Defense,Italy,Right,1,Normal (185+),63,43,53,63,76,71
+S. Boufal,74,74,4500000,21000,27,175,67,Angers SCO,French Ligue 1,LS,Attack,Morocco,Right,2,Lean (170-185),79,66,72,79,27,50
+J. Mojica,74,74,3800000,17000,28,185,73,Elche CF,Spain Primera Division,LM,Midfield,Colombia,Left,1,Lean (185+),91,65,70,71,68,72
+L. Montipò,74,80,5000000,11000,25,191,82,Hellas Verona,Italian Serie A,GK,GoalKeeper,Italy,Right,1,Normal (185+),,,,,,
+Simy,74,74,4200000,14000,29,198,84,US Salernitana 1919,Italian Serie A,LS,Attack,Nigeria,Right,1,Lean (185+),59,77,45,61,29,78
+I. Pussetto,74,78,6000000,45000,25,180,74,Udinese Calcio,Italian Serie A,ST,Attack,Argentina,Right,1,Lean (170-185),78,73,63,77,25,60
+M. Valjent,74,80,6000000,19000,25,187,83,RCD Mallorca,Spain Primera Division,RCB,Defense,Slovakia,Right,1,Normal (185+),66,36,55,64,75,82
+A. Sanabria,74,79,6500000,36000,25,181,73,Torino F.C.,Italian Serie A,RF,Attack,Paraguay,Right,1,Normal (170-185),73,72,70,75,32,62
+David Raya,74,78,4600000,27000,25,183,75,Brentford,English Premier League,GK,GoalKeeper,Spain,Right,1,Normal (170-185),,,,,,
+L. Boyé,74,79,6500000,19000,25,183,79,Elche CF,Spain Primera Division,RS,Attack,Argentina,Right,1,Normal (170-185),73,72,61,77,47,79
+F. Woodman,74,81,7000000,20000,24,190,83,Newcastle United,English Premier League,GK,GoalKeeper,England,Right,1,Lean (185+),,,,,,
+R. Henry,74,79,6000000,31000,23,170,66,Brentford,English Premier League,LWB,Defense,England,Left,1,Lean (170-),91,40,60,73,67,70
+S. Mounié,74,76,5500000,19000,26,190,83,Stade Brestois 29,French Ligue 1,ST,Attack,Benin,Right,2,Normal (185+),64,73,62,68,45,80
+A. Masina,74,75,4400000,39000,27,191,87,Watford,English Premier League,LB,Defense,Morocco,Left,1,Normal (185+),62,42,66,68,72,73
+D. Verde,74,77,5500000,17000,25,168,64,Spezia,Italian Serie A,RW,Attack,Italy,Left,1,Normal (170-),84,73,67,79,36,47
+O. Colley,74,75,4000000,17000,28,191,87,U.C. Sampdoria,Italian Serie A,LCB,Defense,Gambia,Left,1,Lean (185+),68,31,48,54,72,83
+J. Jankto,74,77,5500000,22000,25,180,74,Getafe CF,Spain Primera Division,LM,Midfield,Czech Republic,Left,2,Lean (170-185),75,71,70,74,67,63
+F. Sotoca,74,74,4100000,27000,30,187,77,Racing Club de Lens,French Ligue 1,RS,Attack,France,Right,1,Lean (185+),80,71,68,70,42,80
+L. Dimata,74,79,6500000,16000,23,185,81,RCD Espanyol de Barcelona,Spain Primera Division,RS,Attack,Belgium,Right,1,Normal (185+),77,73,64,70,40,77
+T. Henry,74,76,5500000,20000,26,192,86,Venezia FC,Italian Serie A,ST,Attack,France,Right,1,Normal (185+),61,73,65,66,39,79
+D. Liénard,74,74,2600000,21000,33,181,77,RC Strasbourg Alsace,French Ligue 1,LCM,Midfield,France,Left,1,Normal (170-185),54,70,79,73,62,70
+R. Marin,74,78,6000000,26000,25,178,75,Cagliari,Italian Serie A,RCM,Midfield,Romania,Right,1,Normal (170-185),67,73,78,73,61,65
+D. Giannoulis,74,78,5500000,26000,25,178,71,Norwich City,English Premier League,LB,Defense,Greece,Left,1,Lean (170-185),82,48,65,70,70,67
+A. Caci,74,80,6000000,16000,24,186,74,RC Strasbourg Alsace,French Ligue 1,LB,Defense,France,Right,1,Lean (185+),72,52,67,68,72,72
+M. Djenepo,74,80,6500000,37000,23,177,65,Southampton,English Premier League,LM,Midfield,Mali,Right,1,Lean (170-185),82,68,66,80,36,65
+R. Kolo Muani,74,82,9500000,21000,22,187,73,FC Nantes,French Ligue 1,LS,Attack,France,Right,1,Lean (185+),82,69,60,77,31,61
+C. Gallagher,74,82,9500000,53000,21,182,74,Crystal Palace,English Premier League,LCM,Midfield,England,Right,1,Normal (170-185),71,69,70,73,61,66
+Rodrigo Becão,74,78,5500000,14000,25,191,79,Udinese Calcio,Italian Serie A,RCB,Defense,Brazil,Right,1,Normal (185+),49,33,55,48,77,71
+E. Pinnock,74,75,4000000,37000,28,194,79,Brentford,English Premier League,LCB,Defense,Jamaica,Left,1,Lean (185+),68,37,57,60,74,79
+E. Dennis,74,79,6500000,41000,23,175,66,Watford,English Premier League,ST,Attack,Nigeria,Right,1,Normal (170-185),88,72,60,76,38,68
+O. Alderete,74,80,6000000,28000,24,188,77,Valencia CF,Spain Primera Division,LCB,Defense,Paraguay,Left,1,Normal (185+),66,56,59,63,74,77
+I. Ganago,74,79,6500000,24000,22,179,82,Racing Club de Lens,French Ligue 1,LS,Attack,Cameroon,Right,1,Stocky (170-185),82,74,58,75,34,68
+L. Balerdi,74,82,9000000,24000,22,187,76,Olympique de Marseille,French Ligue 1,CB,Defense,Argentina,Right,1,Normal (185+),71,36,57,64,75,75
+B. Mbeumo,74,82,9500000,32000,21,171,75,Brentford,English Premier League,RS,Attack,France,Left,1,Normal (170-185),83,73,69,74,37,63
+A. Espino,74,74,3700000,24000,29,172,71,Cádiz CF,Spain Primera Division,LB,Defense,Uruguay,Left,1,Normal (170-185),78,60,63,69,70,75
+Zubimendi,74,84,9500000,23000,22,181,74,Real Sociedad,Spain Primera Division,LCM,Midfield,Spain,Right,1,Lean (170-185),62,61,71,71,74,69
+G. Raspadori,74,88,10500000,22000,21,172,69,U.S. Sassuolo Calcio,Italian Serie A,ST,Attack,Italy,Right,2,Normal (170-185),77,74,63,77,26,53
+A. Aouchiche,74,82,9000000,9000,18,181,72,AS Saint-Étienne,French Ligue 1,CAM,Midfield,France,Right,1,Lean (170-185),70,64,74,75,56,59
+T. Moffi,74,82,9500000,17000,22,188,82,FC Lorient,French Ligue 1,RS,Attack,Nigeria,Left,2,Stocky (185+),74,74,53,70,24,75
+L. Badé,74,82,9000000,24000,21,191,89,Stade Rennais FC,French Ligue 1,RCB,Defense,France,Right,1,Normal (185+),60,29,54,62,75,77
+Manolo Reina,73,73,350000,10000,36,186,81,RCD Mallorca,Spain Primera Division,GK,GoalKeeper,Spain,Right,1,Normal (185+),,,,,,
+Kiko Casilla,73,73,525000,40000,34,190,86,Elche CF,Spain Primera Division,GK,GoalKeeper,Spain,Right,2,Lean (185+),,,,,,
+F. Lemoine,73,73,1000000,15000,34,175,71,FC Lorient,French Ligue 1,CM,Midfield,France,Right,2,Normal (170-185),37,58,69,68,71,75
+D. Welbeck,73,73,3000000,45000,30,185,73,Brighton & Hove Albion,English Premier League,LS,Attack,England,Right,2,Normal (185+),71,72,67,72,42,66
+T. Kolodziejczak,73,74,2800000,24000,29,185,75,AS Saint-Étienne,French Ligue 1,LB,Defense,France,Left,2,Normal (185+),67,37,68,60,73,77
+T. Arslan,73,73,2500000,13000,30,180,77,Udinese Calcio,Italian Serie A,RDM,Midfield,Germany,Right,1,Normal (170-185),65,68,73,76,69,67
+S. Corchia,73,73,2600000,19000,30,175,67,FC Nantes,French Ligue 1,RB,Defense,France,Right,2,Normal (170-185),72,62,71,71,72,62
+M. Yoshida,73,73,2000000,15000,32,189,79,U.C. Sampdoria,Italian Serie A,RCB,Defense,Japan,Right,1,Lean (185+),52,41,51,63,74,71
+V. Le Goff,73,73,2200000,15000,31,177,69,FC Lorient,French Ligue 1,LWB,Defense,France,Left,1,Lean (170-185),71,61,66,71,68,69
+V. Belec,73,73,1600000,24000,31,193,84,US Salernitana 1919,Italian Serie A,GK,GoalKeeper,Slovenia,Right,1,Normal (185+),,,,,,
+B. Bereszyński,73,73,2800000,15000,28,183,77,U.C. Sampdoria,Italian Serie A,RB,Defense,Poland,Right,1,Normal (170-185),84,56,64,69,67,73
+L. Rupp,73,73,2900000,28000,30,178,73,Norwich City,English Premier League,LCM,Midfield,Germany,Right,1,Lean (170-185),63,66,74,74,66,64
+M. Haïdara,73,73,2800000,22000,28,179,76,Racing Club de Lens,French Ligue 1,LWB,Defense,Mali,Left,1,Normal (170-185),77,51,62,70,68,78
+V. Germain,73,73,2600000,22000,31,181,75,Montpellier Hérault SC,French Ligue 1,RM,Midfield,France,Right,2,Lean (170-185),68,74,70,73,39,66
+J. Jønsson,73,73,2700000,22000,28,182,78,Cádiz CF,Spain Primera Division,LDM,Midfield,Denmark,Right,1,Lean (170-185),70,56,65,68,72,75
+Ruiz de Galarreta,73,74,3100000,19000,27,175,69,RCD Mallorca,Spain Primera Division,LDM,Midfield,Spain,Right,1,Lean (170-185),69,59,69,72,67,70
+L. Ceppitelli,73,73,2100000,23000,31,186,83,Cagliari,Italian Serie A,RCB,Defense,Italy,Right,1,Normal (185+),51,33,35,44,76,70
+V. Chiricheș,73,73,2100000,23000,31,184,75,U.S. Sassuolo Calcio,Italian Serie A,LCB,Defense,Romania,Right,2,Lean (170-185),56,62,56,62,75,66
+P. Nardi,73,77,3200000,12000,27,188,82,FC Lorient,French Ligue 1,GK,GoalKeeper,France,Right,1,Lean (185+),,,,,,
+J. Uronen,73,74,3300000,15000,26,177,69,Stade Brestois 29,French Ligue 1,LB,Defense,Finland,Left,1,Normal (170-185),72,57,69,67,69,75
+J. Gastien,73,73,1500000,15000,33,179,69,Clermont Foot 63,French Ligue 1,LDM,Midfield,France,Right,1,Lean (170-185),56,63,65,71,70,78
+S. Mitrović,73,73,2100000,20000,31,189,84,Getafe CF,Spain Primera Division,LCB,Defense,Serbia,Right,1,Normal (185+),33,34,51,54,74,81
+F. Tardieu,73,73,2600000,15000,29,184,70,ESTAC Troyes,French Ligue 1,LCM,Midfield,France,Right,1,Lean (170-185),56,62,71,68,69,76
+C. Nørgaard,73,75,3300000,33000,27,187,77,Brentford,English Premier League,CM,Midfield,Denmark,Right,1,Lean (185+),62,57,68,69,73,74
+E. Roco,73,74,2900000,16000,28,192,79,Elche CF,Spain Primera Division,RCB,Defense,Chile,Right,2,Normal (185+),33,41,54,58,75,77
+Ó. Duarte,73,73,2000000,20000,32,186,81,Levante Unión Deportiva,Spain Primera Division,RCB,Defense,Costa Rica,Right,1,Stocky (185+),49,47,51,54,75,76
+W. Cyprien,73,74,3600000,25000,26,181,78,FC Nantes,French Ligue 1,RDM,Midfield,France,Right,2,Normal (170-185),72,71,73,74,73,73
+Róber,73,78,4000000,20000,26,182,74,Levante Unión Deportiva,Spain Primera Division,LCB,Defense,Spain,Right,1,Normal (170-185),57,43,61,61,75,69
+W. Troost-Ekong,73,75,3200000,36000,27,191,82,Watford,English Premier League,RCB,Defense,Nigeria,Right,1,Normal (185+),61,32,45,44,76,77
+K. Sema,73,73,3200000,43000,27,180,69,Watford,English Premier League,LM,Midfield,Sweden,Left,1,Stocky (170-185),78,66,71,74,60,68
+J. Castelletto,73,75,3300000,19000,26,185,76,FC Nantes,French Ligue 1,RCB,Defense,Cameroon,Right,1,Lean (185+),73,30,52,62,74,76
+J. Toljan,73,74,3300000,23000,26,182,73,U.S. Sassuolo Calcio,Italian Serie A,RB,Defense,Germany,Right,2,Lean (170-185),86,42,62,69,66,67
+G. Gallon,73,75,2600000,12000,28,186,79,ESTAC Troyes,French Ligue 1,GK,GoalKeeper,France,Right,1,Normal (185+),,,,,,
+B. Chardonnet,73,76,3500000,15000,26,181,74,Stade Brestois 29,French Ligue 1,RCB,Defense,France,Right,1,Normal (170-185),55,40,52,57,75,74
+Samir,73,75,3300000,13000,26,188,80,Udinese Calcio,Italian Serie A,LCB,Defense,Brazil,Left,1,Normal (185+),60,33,55,57,75,73
+Akapo,73,73,2800000,22000,28,179,70,Cádiz CF,Spain Primera Division,RB,Defense,Equatorial Guinea,Right,1,Normal (170-185),84,51,60,63,69,76
+J. Dossou,73,73,3000000,17000,29,180,75,Clermont Foot 63,French Ligue 1,RM,Midfield,Benin,Right,1,Lean (170-185),83,66,65,72,35,63
+H. Palacios,73,73,2800000,16000,28,181,76,Elche CF,Spain Primera Division,RM,Midfield,Colombia,Right,1,Normal (170-185),83,35,61,61,69,80
+Edgar Méndez,73,73,2500000,19000,31,187,78,Deportivo Alavés,Spain Primera Division,RM,Midfield,Spain,Right,1,Normal (185+),74,71,70,70,43,77
+M. Thorsby,73,78,4400000,15000,25,189,79,U.C. Sampdoria,Italian Serie A,RCM,Midfield,Norway,Right,2,Normal (185+),68,62,68,71,73,80
+Walace,73,75,3400000,13000,26,188,75,Udinese Calcio,Italian Serie A,LDM,Midfield,Brazil,Right,1,Normal (185+),65,66,68,69,68,72
+A. Zedadka,73,76,3700000,15000,26,173,72,Clermont Foot 63,French Ligue 1,RB,Defense,France,Right,1,Normal (170-185),83,55,56,74,65,62
+Manu García,73,82,7000000,8000,23,169,66,Deportivo Alavés,Spain Primera Division,CAM,Midfield,Spain,Right,1,Lean (170-),78,69,72,75,40,56
+Pedro Chirivella,73,77,4000000,16000,24,178,66,FC Nantes,French Ligue 1,LDM,Midfield,Spain,Right,1,Lean (170-185),64,52,70,72,66,69
+Luis Rioja,73,73,3200000,19000,27,175,68,Deportivo Alavés,Spain Primera Division,LM,Midfield,Spain,Left,1,Normal (170-185),79,67,69,75,32,49
+G. Ferrari,73,74,2800000,24000,29,189,82,U.S. Sassuolo Calcio,Italian Serie A,RCB,Defense,Italy,Left,1,Normal (185+),53,27,39,49,75,79
+Kike Barja,73,79,4800000,19000,24,178,69,CA Osasuna,Spain Primera Division,RM,Midfield,Spain,Right,1,Lean (170-185),76,66,67,73,34,61
+Raúl Guti,73,80,6000000,14000,24,177,74,Elche CF,Spain Primera Division,RCM,Midfield,Spain,Right,1,Normal (170-185),68,68,69,70,67,79
+M. Svanberg,73,80,6000000,22000,22,185,77,Bologna,Italian Serie A,LDM,Midfield,Sweden,Right,1,Normal (185+),77,66,74,76,62,68
+G. Pereiro,73,75,3800000,25000,26,188,75,Cagliari,Italian Serie A,CAM,Midfield,Uruguay,Left,2,Normal (185+),70,73,70,77,40,67
+K. Amian,73,77,3900000,12000,23,180,78,Spezia,Italian Serie A,RM,Midfield,France,Right,1,Normal (170-185),79,48,63,68,73,79
+R. Pierre-Gabriel,73,78,4300000,16000,23,177,80,Stade Brestois 29,French Ligue 1,RB,Defense,France,Right,1,Stocky (170-185),76,48,60,69,71,72
+N. Molina,73,81,6500000,11000,23,175,70,Udinese Calcio,Italian Serie A,RM,Midfield,Argentina,Right,1,Lean (170-185),78,64,67,72,68,66
+W. Faes,73,80,5500000,16000,23,187,82,Stade de Reims,French Ligue 1,CB,Defense,Belgium,Right,1,Normal (185+),55,37,54,57,73,75
+V. Janelt,73,80,5500000,28000,23,184,79,Brentford,English Premier League,LCM,Midfield,Germany,Left,1,Lean (170-185),66,62,66,68,70,75
+K. Bonifazi,73,78,4000000,22000,25,187,85,Bologna,Italian Serie A,RCB,Defense,Italy,Right,1,Normal (185+),52,35,51,56,75,64
+J. Bellegarde,73,81,6500000,17000,23,172,70,RC Strasbourg Alsace,French Ligue 1,RCM,Midfield,France,Right,1,Normal (170-185),79,60,69,75,69,69
+Santi Comesaña,73,79,4400000,13000,24,184,75,Rayo Vallecano,Spain Primera Division,LDM,Midfield,Spain,Right,1,Lean (170-185),63,67,64,69,72,73
+S. Doumbia,73,78,4300000,15000,24,175,64,Angers SCO,French Ligue 1,LM,Midfield,Côte d'Ivoire,Left,1,Lean (170-185),86,43,62,70,68,69
+P. Cutrone,73,78,4700000,51000,23,183,79,Empoli,Italian Serie A,LS,Attack,Italy,Right,1,Normal (170-185),72,71,55,71,29,69
+K. Danso,73,79,4400000,18000,22,190,87,Racing Club de Lens,French Ligue 1,CB,Defense,Austria,Right,1,Lean (185+),78,32,45,56,72,76
+I. Niane,73,81,7000000,15000,22,187,73,FC Metz,French Ligue 1,LS,Attack,Senegal,Right,1,Normal (185+),82,74,54,71,20,62
+M. Guéhi,73,84,6000000,26000,20,185,75,Crystal Palace,English Premier League,LCB,Defense,England,Right,1,Stocky (185+),71,31,49,64,74,72
+M. Bayo,73,80,6000000,15000,23,188,76,Clermont Foot 63,French Ligue 1,ST,Attack,Guinea,Right,1,Lean (185+),72,75,60,73,25,60
+A. Laurienté,73,80,6000000,14000,22,171,59,FC Lorient,French Ligue 1,LS,Attack,France,Right,1,Normal (170-185),77,72,70,76,33,45
+Catena,73,76,3500000,15000,26,194,82,Rayo Vallecano,Spain Primera Division,LCB,Defense,Spain,Right,1,Lean (185+),68,39,54,50,74,78
+B. Kouyaté,73,79,4400000,12000,24,192,78,FC Metz,French Ligue 1,CB,Defense,Mali,Right,1,Lean (185+),62,37,50,58,73,77
+Son,73,74,3200000,20000,27,178,72,Levante Unión Deportiva,Spain Primera Division,RB,Defense,Spain,Right,1,Normal (170-185),84,50,64,71,67,72
+Y. Maçon,73,79,4600000,19000,22,176,74,AS Saint-Étienne,French Ligue 1,RB,Defense,France,Right,1,Normal (170-185),86,50,62,72,67,69
+I. Grbić,73,79,3800000,25000,25,195,93,LOSC Lille,French Ligue 1,GK,GoalKeeper,Croatia,Right,1,Normal (185+),,,,,,
+J. Morel,72,72,425000,9000,37,172,71,FC Lorient,French Ligue 1,LCB,Defense,Madagascar,Left,2,Normal (170-185),50,44,60,57,74,71
+C. Cathcart,72,72,1500000,32000,32,190,83,Watford,English Premier League,RB,Defense,Northern Ireland,Right,1,Lean (185+),35,37,55,53,74,71
+Fábio,72,72,2000000,17000,30,172,74,FC Nantes,French Ligue 1,LB,Defense,Brazil,Right,2,Lean (170-185),75,54,69,73,70,67
+S. Duffy,72,72,2000000,35000,29,193,76,Brighton & Hove Albion,English Premier League,CB,Defense,Republic of Ireland,Right,1,Normal (185+),41,47,49,48,72,79
+J. Obi,72,72,2200000,28000,30,177,72,US Salernitana 1919,Italian Serie A,LCM,Midfield,Nigeria,Left,1,Normal (170-185),83,67,69,74,74,75
+B. Gibson,72,73,2200000,23000,28,185,78,Norwich City,English Premier League,LCB,Defense,England,Left,1,Normal (185+),53,29,49,52,73,68
+Y. Touzghar,72,72,1100000,15000,34,179,75,ESTAC Troyes,French Ligue 1,ST,Attack,Tunisia,Right,1,Lean (170-185),71,73,61,72,24,69
+J. Murphy,72,73,2800000,27000,26,179,74,Newcastle United,English Premier League,RWB,Defense,England,Right,1,Lean (170-185),78,67,68,74,61,63
+Bigas,72,72,1900000,13000,30,181,78,Elche CF,Spain Primera Division,LCB,Defense,Spain,Left,1,Normal (170-185),66,52,59,61,72,73
+José Mari,72,72,1200000,19000,33,180,69,Cádiz CF,Spain Primera Division,RDM,Midfield,Spain,Right,1,Lean (170-185),65,60,67,66,68,73
+D. Biraschi,72,74,2600000,12000,26,182,72,Genoa,Italian Serie A,RCB,Defense,Italy,Right,1,Normal (170-185),58,35,56,62,75,64
+Unai García,72,73,2200000,18000,28,186,81,CA Osasuna,Spain Primera Division,RCB,Defense,Spain,Left,1,Normal (185+),60,41,59,54,73,75
+Sandro,72,75,3100000,10000,25,175,71,Getafe CF,Spain Primera Division,LS,Attack,Spain,Right,2,Normal (170-185),64,75,65,76,30,62
+C. Hountondji,72,74,2500000,13000,27,195,81,Clermont Foot 63,French Ligue 1,RCB,Defense,Benin,Right,1,Lean (185+),41,33,52,56,73,72
+Sergi Canós,72,76,3400000,30000,24,175,66,Brentford,English Premier League,RWB,Defense,Spain,Right,1,Lean (170-185),71,69,67,74,54,68
+M. Doumbia,72,72,2600000,18000,26,173,68,Stade de Reims,French Ligue 1,LW,Attack,Mali,Right,1,Lean (170-185),81,67,67,74,38,63
+L. Mancuso,72,72,2300000,35000,29,182,77,Empoli,Italian Serie A,RS,Attack,Italy,Right,1,Normal (170-185),76,72,62,74,34,68
+J. Laporte,72,74,2500000,13000,27,185,82,FC Lorient,French Ligue 1,CB,Defense,France,Right,1,Normal (185+),51,27,44,51,72,80
+F. Sierralta,72,78,3400000,27000,24,190,83,Watford,English Premier League,LCB,Defense,Chile,Right,1,Lean (185+),53,30,50,53,70,76
+J. Berthomier,72,72,1900000,14000,31,177,74,Clermont Foot 63,French Ligue 1,CAM,Midfield,France,Left,1,Normal (170-185),69,69,75,74,51,65
+A. Desmas,72,74,2100000,10000,27,196,87,Clermont Foot 63,French Ligue 1,GK,GoalKeeper,France,Right,1,Lean (185+),,,,,,
+I. Sissoko,72,78,3700000,15000,23,193,90,RC Strasbourg Alsace,French Ligue 1,CDM,Midfield,France,Right,1,Normal (185+),50,55,65,66,71,84
+O. Etebo,72,76,3200000,20000,25,176,70,Watford,English Premier League,CDM,Midfield,Nigeria,Right,1,Normal (170-185),77,65,68,75,71,81
+O. El Hajjam,72,72,1900000,13000,30,180,72,ESTAC Troyes,French Ligue 1,RCB,Defense,Morocco,Right,1,Normal (170-185),70,46,65,68,73,74
+Luan Peres,72,75,2700000,23000,26,190,79,Olympique de Marseille,French Ligue 1,LCB,Defense,Brazil,Left,1,Lean (185+),71,34,59,64,74,70
+M. Munetsi,72,78,3300000,16000,25,188,83,Stade de Reims,French Ligue 1,LCM,Midfield,Zimbabwe,Right,1,Normal (185+),63,48,65,65,70,75
+Y. Salmier,72,73,2200000,13000,28,188,85,ESTAC Troyes,French Ligue 1,LCB,Defense,France,Right,1,Normal (185+),43,28,45,53,72,80
+N. Cozza,72,80,4900000,14000,22,178,72,Montpellier Hérault SC,French Ligue 1,LB,Defense,France,Left,1,Normal (170-185),77,37,61,66,73,71
+A. Gravillon,72,77,3200000,42000,23,185,80,Stade de Reims,French Ligue 1,RCB,Defense,France,Right,1,Normal (185+),62,42,48,55,72,75
+L. Štulac,72,76,2900000,29000,26,175,70,Empoli,Italian Serie A,LCM,Midfield,Slovenia,Right,1,Lean (170-185),70,61,68,67,69,70
+T. Augello,72,73,2500000,13000,26,180,70,U.C. Sampdoria,Italian Serie A,LB,Defense,Italy,Left,1,Normal (170-185),76,39,64,69,67,61
+B. Gilmour,72,86,5500000,43000,20,170,66,Norwich City,English Premier League,CDM,Midfield,Scotland,Right,1,Lean (170-),67,54,70,73,68,55
+J. Allevinah,72,73,2800000,14000,26,172,70,Clermont Foot 63,French Ligue 1,LM,Midfield,Gabon,Right,1,Stocky (170-185),86,69,63,74,28,51
+M. Bard,72,82,4900000,14000,20,173,65,OGC Nice,French Ligue 1,LB,Defense,France,Left,1,Normal (170-185),78,48,63,73,67,70
+K. de la Fuente,72,83,5000000,16000,19,170,63,Olympique de Marseille,French Ligue 1,LM,Midfield,United States,Right,1,Normal (170-),83,64,68,73,19,49
+I. Ilić,72,82,5000000,14000,20,187,75,Hellas Verona,Italian Serie A,RCM,Midfield,Serbia,Left,1,Lean (185+),69,64,72,74,62,66
+A. Ismajli,72,76,3000000,25000,24,185,76,Empoli,Italian Serie A,RCB,Defense,Albania,Right,1,Lean (185+),72,28,49,61,74,66
+E. Green,72,81,4400000,11000,20,190,78,AS Saint-Étienne,French Ligue 1,GK,GoalKeeper,England,Right,1,Lean (185+),,,,,,
+S. Strandberg,71,71,1500000,23000,30,189,80,US Salernitana 1919,Italian Serie A,CB,Defense,Norway,Right,1,Normal (185+),67,43,53,58,71,75
+F. Ogier,71,71,1200000,11000,32,183,73,Clermont Foot 63,French Ligue 1,LCB,Defense,France,Right,1,Lean (170-185),41,31,39,52,73,78
+S. Sabelli,71,71,1700000,11000,28,176,70,Genoa,Italian Serie A,RM,Midfield,Italy,Right,1,Lean (170-185),76,40,60,64,68,72
+V. Haroyan,71,72,1800000,17000,28,185,75,Cádiz CF,Spain Primera Division,RCB,Defense,Armenia,Right,1,Normal (185+),58,30,49,51,72,75
+J. Cabot,71,71,2000000,15000,27,164,64,Angers SCO,French Ligue 1,RM,Midfield,France,Right,1,Normal (170-),91,66,60,75,28,53
+N. Gyömbér,71,71,1600000,24000,28,189,74,US Salernitana 1919,Italian Serie A,RCB,Defense,Slovakia,Right,1,Lean (185+),57,31,42,50,73,67
+L. Venuti,71,74,2300000,27000,26,176,66,Fiorentina,Italian Serie A,RB,Defense,Italy,Right,1,Normal (170-185),73,26,59,66,68,61
+S. Luperto,71,77,2700000,26000,24,191,75,Empoli,Italian Serie A,LCB,Defense,Italy,Left,1,Lean (185+),49,55,60,59,74,68
+P. Stojanović,71,75,2400000,550,25,178,72,Empoli,Italian Serie A,RB,Defense,Slovenia,Right,1,Lean (170-185),79,50,68,70,63,72
+Dalbert,71,71,2000000,47000,27,181,70,Cagliari,Italian Serie A,LM,Midfield,Brazil,Left,1,Lean (170-185),84,57,67,72,66,68
+V. Nsimba,71,71,1800000,11000,27,167,67,Clermont Foot 63,French Ligue 1,LB,Defense,Congo DR,Left,1,Normal (170-),85,59,63,69,65,61
+G. Maggiore,71,75,2700000,10000,23,184,69,Spezia,Italian Serie A,LCM,Midfield,Italy,Right,1,Lean (170-185),66,59,65,70,64,67
+A. Bassi,71,77,3000000,11000,23,173,69,FC Metz,French Ligue 1,CAM,Midfield,Morocco,Right,1,Normal (170-185),69,67,68,74,49,61
+Jordi Mboula,71,80,4200000,14000,22,183,74,RCD Mallorca,Spain Primera Division,RM,Midfield,Spain,Right,1,Lean (170-185),87,66,62,75,32,63
+G. Vicario,71,77,2400000,12000,24,188,76,Empoli,Italian Serie A,GK,GoalKeeper,Italy,Right,1,Lean (185+),,,,,,
+T. Mitchell,71,79,4000000,20000,21,180,70,Crystal Palace,English Premier League,LB,Defense,England,Left,1,Lean (170-185),74,37,56,66,71,65
+Gonzalo Verdú,71,71,1200000,12000,32,185,80,Elche CF,Spain Primera Division,CB,Defense,Spain,Right,1,Normal (185+),57,53,55,56,72,77
+M. Erlić,71,75,2400000,15000,23,193,88,Spezia,Italian Serie A,RCB,Defense,Croatia,Right,1,Normal (185+),56,33,49,51,71,73
+F. Russo,71,75,2300000,15000,26,185,78,RCD Mallorca,Spain Primera Division,LCB,Defense,Argentina,Right,1,Normal (185+),66,30,50,48,74,71
+E. Le Fée,71,81,4200000,9000,21,170,58,FC Lorient,French Ligue 1,RCM,Midfield,France,Right,1,Lean (170-),63,53,73,75,56,46
+G. Mensah,71,78,3600000,13000,22,178,64,FC Girondins de Bordeaux,French Ligue 1,LWB,Defense,Ghana,Left,1,Lean (170-185),75,56,64,71,65,65
+N. Mbuku,71,83,4400000,9000,19,170,65,Stade de Reims,French Ligue 1,RW,Attack,France,Left,1,Normal (170-),78,64,67,76,34,49
+J. Giraudon,70,70,1300000,10000,29,184,66,ESTAC Troyes,French Ligue 1,CB,Defense,France,Right,1,Lean (170-185),53,36,58,58,71,72
+D. Bachmann,70,73,1600000,20000,26,191,81,Watford,English Premier League,GK,GoalKeeper,Austria,Right,1,Normal (185+),,,,,,
+S. Gregersen,70,75,2100000,13000,26,191,83,FC Girondins de Bordeaux,French Ligue 1,RCB,Defense,Norway,Right,1,Normal (185+),75,44,46,45,67,82
+L. Lezzerini,70,73,1600000,9000,26,195,86,Venezia FC,Italian Serie A,GK,GoalKeeper,Italy,Right,1,Lean (185+),,,,,,
+Aarón,70,75,1900000,9000,25,185,71,Granada CF,Spain Primera Division,GK,GoalKeeper,Spain,Right,1,Lean (185+),,,,,,
+V. Milinković-Savić,70,75,1900000,13000,24,202,90,Torino F.C.,Italian Serie A,GK,GoalKeeper,Serbia,Right,1,Normal (185+),,,,,,
+N. Haas,70,73,2100000,22000,25,181,74,Empoli,Italian Serie A,RCM,Midfield,Switzerland,Right,1,Lean (170-185),77,58,70,72,62,67
+Brian Oliván,70,71,1700000,13000,27,177,73,RCD Mallorca,Spain Primera Division,LB,Defense,Spain,Left,1,Lean (170-185),73,56,59,68,65,76
+M. Udol,70,74,2100000,9000,25,178,68,FC Metz,French Ligue 1,LCB,Defense,France,Left,1,Normal (170-185),69,42,62,69,69,69
+D. Okereke,70,76,2500000,13000,23,181,77,Venezia FC,Italian Serie A,RW,Attack,Nigeria,Right,1,Normal (170-185),85,67,54,73,26,66
+D. Johnsen,70,74,2300000,11000,23,185,75,Venezia FC,Italian Serie A,LW,Attack,Norway,Right,1,Lean (185+),80,60,67,72,32,59
+R. Kouamé,70,77,3200000,9000,24,177,68,ESTAC Troyes,French Ligue 1,RCM,Midfield,Mali,Left,1,Lean (170-185),67,52,67,71,67,73
+Moreto Cassamá,70,78,3300000,11000,23,165,63,Stade de Reims,French Ligue 1,RCM,Midfield,Guinea Bissau,Right,1,Normal (170-),72,57,68,75,65,62
+Rogério,70,79,3400000,13000,23,178,70,U.S. Sassuolo Calcio,Italian Serie A,LB,Defense,Brazil,Left,1,Normal (170-185),75,53,65,72,67,59
+Monchu,70,81,3600000,9000,21,173,68,Granada CF,Spain Primera Division,RCM,Midfield,Spain,Right,1,Normal (170-185),70,65,68,71,65,65
+M. Kilman,70,78,3300000,29000,24,195,80,Wolverhampton Wanderers,English Premier League,RCB,Defense,England,Left,1,Normal (185+),58,42,59,62,70,74
+J. Chotard,70,80,3400000,8000,19,179,70,Montpellier Hérault SC,French Ligue 1,LDM,Midfield,France,Right,1,Normal (170-185),69,54,71,73,62,64
+N. Rovella,70,87,4100000,19000,19,179,70,Genoa,Italian Serie A,LCM,Midfield,Italy,Right,1,Lean (170-185),67,49,68,73,62,64
+O. Bukari,70,77,3200000,11000,22,170,68,FC Nantes,French Ligue 1,RM,Midfield,Ghana,Right,1,Normal (170-),87,63,62,76,29,62
+P. Sarr,70,82,3700000,14000,18,184,70,FC Metz,French Ligue 1,LCM,Midfield,Senegal,Right,1,Lean (170-185),67,63,68,71,65,58
+E. Saveljich,69,69,1100000,9000,30,187,80,Rayo Vallecano,Spain Primera Division,RCB,Defense,Montenegro,Right,1,Normal (185+),45,32,46,43,69,80
+J. Iglesias,69,69,925000,8000,32,171,69,Clermont Foot 63,French Ligue 1,RDM,Midfield,Uruguay,Right,1,Normal (170-185),56,59,68,65,65,62
+D. Črnigoj,69,71,1700000,10000,25,185,70,Venezia FC,Italian Serie A,LCM,Midfield,Slovenia,Right,1,Normal (185+),71,59,68,69,37,64
+N. Bajrami,69,80,3100000,18000,22,179,68,Empoli,Italian Serie A,CAM,Midfield,Switzerland,Right,1,Lean (170-185),74,59,67,70,57,64
+D. Frattesi,69,81,3400000,11000,21,184,74,U.S. Sassuolo Calcio,Italian Serie A,RDM,Midfield,Italy,Right,1,Normal (170-185),74,68,68,72,61,66
+L. Perrin,69,74,1900000,13000,22,187,71,RC Strasbourg Alsace,French Ligue 1,LCB,Defense,France,Right,1,Lean (185+),47,35,49,54,71,69
+A. Hickey,69,82,3200000,7000,19,175,72,Bologna,Italian Serie A,LB,Defense,Scotland,Right,1,Lean (170-185),69,50,65,67,66,56
+L. Brassier,69,76,2600000,6000,21,184,78,Stade Brestois 29,French Ligue 1,LCB,Defense,France,Left,1,Normal (170-185),68,36,56,64,68,73
+E. Touré,69,80,3000000,8000,19,185,72,Stade de Reims,French Ligue 1,ST,Attack,Mali,Right,1,Normal (185+),73,70,54,68,22,66
+S. Sow,69,81,3000000,4000,18,185,78,AS Saint-Étienne,French Ligue 1,RCB,Defense,Guinea,Right,1,Normal (185+),63,41,54,60,69,66
+Matheus Thuler,69,76,2600000,9000,22,186,86,Montpellier Hérault SC,French Ligue 1,RCB,Defense,Brazil,Right,1,Normal (185+),65,33,43,51,68,75
+S. Bastoni,68,72,1600000,6000,24,181,74,Spezia,Italian Serie A,RCM,Midfield,Italy,Left,1,Normal (170-185),64,54,67,68,65,60
+H. Mendes,68,73,1700000,6000,23,184,73,FC Lorient,French Ligue 1,RCB,Defense,France,Right,1,Lean (170-185),76,42,60,62,65,70
+R. Marchizza,68,75,2300000,10000,23,186,80,Empoli,Italian Serie A,LB,Defense,Italy,Left,1,Normal (185+),60,29,54,62,68,67
+D. Nikolaou,68,76,2500000,6000,22,190,92,Spezia,Italian Serie A,CB,Defense,Greece,Left,1,Normal (185+),56,37,45,42,69,72
+P. Mazzocchi,68,70,1400000,7000,25,180,74,Venezia FC,Italian Serie A,RB,Defense,Italy,Right,1,Lean (170-185),76,56,62,67,65,70
+Ricardo Mangas,68,77,2600000,5000,23,179,66,FC Girondins de Bordeaux,French Ligue 1,LCB,Defense,Portugal,Left,1,Lean (170-185),68,36,53,65,67,69
+Igor Silva,68,73,1700000,6000,24,173,66,FC Lorient,French Ligue 1,RWB,Defense,Brazil,Right,1,Normal (170-185),79,51,61,71,63,63
+G. Biancone,68,78,2600000,5000,21,187,79,ESTAC Troyes,French Ligue 1,LWB,Defense,France,Right,1,Normal (185+),72,47,59,66,61,74
+J. Ramsey,68,83,2900000,16000,20,180,72,Aston Villa,English Premier League,LCM,Midfield,England,Right,1,Lean (170-185),67,58,62,71,44,60
+I. Kabore,68,82,2800000,24000,20,180,70,ESTAC Troyes,French Ligue 1,RWB,Defense,Burkina Faso,Right,1,Normal (170-185),91,27,58,64,58,70
+L. Gueye,68,76,2700000,8000,23,178,74,FC Metz,French Ligue 1,RS,Attack,Senegal,Right,1,Lean (170-185),76,70,64,70,24,55
+A. Carboni,68,81,2700000,8000,20,185,80,Cagliari,Italian Serie A,LCB,Defense,Italy,Left,1,Lean (185+),56,28,54,61,70,64
+T. Pembélé,68,81,2700000,7000,18,182,76,FC Girondins de Bordeaux,French Ligue 1,RWB,Defense,France,Right,1,Lean (170-185),85,46,61,69,63,61
+R. Aya,67,67,825000,12000,30,184,79,US Salernitana 1919,Italian Serie A,LCB,Defense,Italy,Right,1,Normal (170-185),69,45,53,55,66,71
+L. Capezzi,67,70,1300000,13000,26,178,72,US Salernitana 1919,Italian Serie A,RCM,Midfield,Italy,Right,1,Normal (170-185),47,59,68,66,59,59
+E. Gyasi,67,67,1100000,7000,27,181,70,Spezia,Italian Serie A,ST,Attack,Ghana,Right,1,Lean (170-185),77,60,61,72,20,64
+D. Heymans,67,72,1600000,6000,22,193,79,Venezia FC,Italian Serie A,RCM,Midfield,Belgium,Right,1,Lean (185+),61,68,65,66,55,68
+K. Fila,67,72,1400000,6000,23,180,72,RC Strasbourg Alsace,French Ligue 1,RB,Defense,Poland,Right,1,Normal (170-185),81,47,60,61,61,68
+G. Busio,67,81,2400000,4000,19,170,61,Venezia FC,Italian Serie A,CM,Midfield,United States,Right,1,Lean (170-),64,62,65,71,59,65
+Salva Ferrer,67,73,1500000,5000,23,184,73,Spezia,Italian Serie A,LM,Midfield,Spain,Right,1,Normal (170-185),70,35,56,61,65,70
+S. Ricci,67,84,2600000,8000,19,178,72,Empoli,Italian Serie A,CM,Midfield,Italy,Right,1,Lean (170-185),67,44,67,68,62,64
+E. Colley,67,76,2300000,12000,21,182,75,Spezia,Italian Serie A,LW,Attack,Gambia,Right,1,Normal (170-185),80,65,51,69,21,51
+F. Di Tacchio,66,66,700000,11000,31,186,81,US Salernitana 1919,Italian Serie A,CAM,Midfield,Italy,Left,1,Stocky (185+),51,50,58,59,64,86
+P. Ceccaroni,66,69,1000000,5000,25,188,76,Venezia FC,Italian Serie A,LB,Defense,Italy,Left,1,Lean (185+),72,30,52,54,67,66
+D. Chambost,66,72,1400000,5000,23,177,70,ESTAC Troyes,French Ligue 1,RM,Midfield,France,Left,1,Lean (170-185),64,64,66,66,52,65
+M. Svoboda,66,74,1800000,5000,22,195,85,Venezia FC,Italian Serie A,RCB,Defense,Austria,Right,1,Normal (185+),58,41,53,58,65,77
+W. Singo,66,81,2000000,8000,20,190,79,Torino F.C.,Italian Serie A,RM,Midfield,Côte d'Ivoire,Right,1,Lean (185+),77,40,57,67,62,59
+M. Cho,66,82,2100000,1000,17,182,73,Angers SCO,French Ligue 1,RS,Attack,France,Left,1,Normal (170-185),75,66,53,68,24,49
+A. Buongiorno,65,76,1500000,8000,22,194,80,Torino F.C.,Italian Serie A,LCB,Defense,Italy,Left,1,Lean (185+),59,43,52,54,65,66
+B. Mendy,65,78,1700000,4000,21,191,82,Angers SCO,French Ligue 1,RDM,Midfield,France,Right,1,Lean (185+),60,40,57,51,66,72
+H. Mbock,65,75,1600000,4000,21,186,82,Stade Brestois 29,French Ligue 1,RDM,Midfield,France,Right,1,Normal (185+),63,58,61,68,60,66
+M. Ruggeri,65,78,1700000,4000,18,179,79,US Salernitana 1919,Italian Serie A,LM,Midfield,Italy,Left,1,Lean (170-185),65,49,62,64,64,63
+A. Cambiaso,64,76,1400000,3000,21,181,72,Genoa,Italian Serie A,LM,Midfield,Italy,Left,1,Normal (170-185),68,52,63,67,65,52
+W. Kechrida,64,69,800000,8000,25,184,75,US Salernitana 1919,Italian Serie A,RM,Midfield,Tunisia,Right,1,Lean (170-185),68,34,48,59,63,58
+T. Livramento,62,80,975000,2000,18,173,65,Southampton,English Premier League,RB,Defense,England,Right,1,Normal (170-185),79,46,56,58,56,58
+P. Hristov,61,74,750000,2000,22,191,85,Spezia,Italian Serie A,LCB,Defense,Bulgaria,Right,1,Lean (185+),47,31,36,39,63,66
